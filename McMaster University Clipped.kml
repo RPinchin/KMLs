@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="McMaster_University_Clipped" id="McMaster_University_Clipped">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>McMaster_University_Clipped</name>
+  <Placemark>
+	<name>McMaster University</name>
+	<Style><LineStyle><color>FFe533b3</color><width>1.30393</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#McMaster_University_Clipped">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9233871525646,43.2639368527489,0 -79.9232920112457,43.2618411265388,0 -79.9227255694523,43.2592018628397,0 -79.9213812269788,43.2579530765991,0 -79.9163634947968,43.2581434455561,0 -79.9161194813406,43.2634208352618,0 -79.913619623243,43.2663126095759,0 -79.9141911479293,43.2673733487185,0 -79.9143919052441,43.2674550690897,0 -79.9145226446402,43.267589632479,0 -79.9146750585963,43.2677258176,0 -79.914784521458,43.2678272463423,0 -79.9148949588295,43.2678949153389,0 -79.9149824655674,43.267979890071,0 -79.9150697100339,43.2680492968535,0 -79.9151595283649,43.2680493454842,0 -79.9152718031413,43.2680494075599,0 -79.9169171098165,43.2675941004246,0 -79.9199610520568,43.2661766358406,0 -79.9233871525646,43.2639368527489,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
