@@ -20,6 +20,7 @@
 		<SimpleData name="extrude">0</SimpleData>
 		<SimpleData name="visibility">-1</SimpleData>
 	</SchemaData></ExtendedData>
+	  <color>ff0000ff</color>
       <Point><coordinates>-79.9397903680634,43.25205234857,0</coordinates></Point>
   </Placemark>
   <Placemark>
