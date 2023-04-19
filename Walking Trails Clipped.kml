@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Walking_Trails_Clipped" id="Walking_Trails_Clipped">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Walking_Trails_Clipped</name>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8942327281278,43.2730550547112,0 -79.8941607897125,43.2730021895154,0 -79.8941045385213,43.2729651321729,0 -79.8940460691831,43.2729305944402,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9291173082686,43.2644388052987,0 -79.9291837354191,43.2644458699771,0 -79.9292325664276,43.264449900134,0 -79.9292804443024,43.2644524932222,0 -79.9293175397661,43.264456413485,0 -79.9293555895618,43.2644617734956,0 -79.9293897141772,43.2644678108162,0 -79.9294325396626,43.26447964747,0 -79.9294684828787,43.264493563683,0 -79.9294898950202,43.2644994819915,0 -79.9295201094575,43.2645054826769,0 -79.929564540309,43.2645134623386,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9291944902565,43.2664770737275,0 -79.9292080541254,43.2665004865323,0 -79.9292106755382,43.2665183797453,0 -79.9292063756152,43.2665404961395,0 -79.9291912552872,43.266566085149,0 -79.929190992201,43.2665810924064,0 -79.9291907416464,43.266595384818,0 -79.9291942774018,43.2666168596051,0 -79.9292036936634,43.2666376753817,0 -79.9292051978448,43.2666634200265,0 -79.9291970364351,43.2666826413179,0 -79.9291830207741,43.2667010937391,0 -79.9291778428458,43.2667174840088,0 -79.9291794735211,43.2667360829096,0 -79.9291851147927,43.2667490005541,0 -79.9291916966768,43.2667640718931,0 -79.9291904315676,43.2667804987946,0 -79.9291833348022,43.266794727112,0 -79.9291674503912,43.2668081590958,0 -79.9291534221754,43.2668273254578,0 -79.9291413115348,43.2668486546599,0 -79.9291310809042,43.2668742894388,0 -79.9291247756275,43.2668992460049,0 -79.9291194723707,43.2669227829265,0 -79.9291114111284,43.2669362872462,0 -79.9290984224901,43.2669518894199,0 -79.9290816851102,43.2669581655769,0 -79.9290650116098,43.2669608684153,0 -79.9290454285337,43.266962114983,0 -79.9290258329389,43.2669640754926,0 -79.9290071767175,43.2669681896835,0 -79.9289874934117,43.2669751523048,0 -79.9289706557705,43.2669871454092,0 -79.9289556993646,43.2670034441036,0 -79.9289426605332,43.267021905641,0 -79.9289216869444,43.267046724839,0 -79.9289057898905,43.2670608707299,0 -79.9288840749261,43.267072103185,0 -79.9288516659995,43.2670796615748,0 -79.9288064951123,43.2670899602885,0 -79.9287701244252,43.2671003405033,0 -79.9286854225622,43.2671338546033,0 -79.92861752077,43.2671575192273,0 -79.9286037053813,43.2671645376469,0 -79.9285849249604,43.2671757975329,0 -79.9285681373264,43.2671849320947,0 -79.9285455079582,43.2671925820056,0 -79.9285239182317,43.2671966686376,0 -79.9285042849424,43.2672007726927,0 -79.9284894662543,43.267209210725,0 -79.9284765150042,43.2672226691891,0 -79.9284694819224,43.2672333250439,0 -79.9284594766098,43.2672460961412,0 -79.9284446202981,43.2672566778033,0 -79.9284269421627,43.2672608010623,0 -79.9284014169494,43.2672662798263,0 -79.9283788251393,43.2672717860677,0 -79.9283473303344,43.2672829267925,0 -79.9283207265859,43.2672941133355,0 -79.9283000021884,43.2673046399973,0 -79.9282761186688,43.2673280027847,0 -79.928263112396,43.2673413625589,0 -79.9282274058308,43.2674029244969,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9287235919352,43.2643730796315,0 -79.9287441191177,43.2643060050102,0 -79.9287511798016,43.2642589024735,0 -79.9287482302215,43.264199169113,0 -79.9287341904218,43.2641467246394,0 -79.9287052434452,43.2640889106852,0 -79.9286464116913,43.2640113083953,0 -79.9285864988243,43.2639536257743,0 -79.9285266577244,43.2639049942927,0 -79.9284457163655,43.2638510216929,0 -79.928373560714,43.2638114945477,0 -79.9283374477182,43.2637872058292,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9279135109155,43.2529427955175,0 -79.9278991790807,43.2528931305273,0 -79.9277481953625,43.2528332943727,0 -79.9275958093503,43.2528534560762,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9275958093503,43.2528534560762,0 -79.927613348209,43.252918391444,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9275958093503,43.2528534560762,0 -79.9275379593405,43.2526598705314,0 -79.9272260423659,43.2527112387336,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8911776149678,43.260951961426,0 -79.8911764308031,43.2609366268644,0 -79.8911796345357,43.2609213348401,0 -79.8911832989865,43.2609074727057,0 -79.8911879261461,43.2608943321656,0 -79.8911940336714,43.2608801380337,0 -79.8912010534211,43.2608695149537,0 -79.8912095224314,43.2608596199849,0 -79.8912194653841,43.260849025241,0 -79.8912337974399,43.2608384739436,0 -79.8912481359609,43.2608275661258,0 -79.8913197148895,43.2607790832844,0 -79.8913839696797,43.2607312425716,0 -79.8914394421397,43.2606836732859,0 -79.8914786402196,43.2606462798983,0 -79.8915144841918,43.2606056465623,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8917279847267,43.2474412365629,0 -79.8920733614744,43.2475202759602,0 -79.8921326946773,43.2475310474552,0 -79.8921787037196,43.2475327627189,0 -79.8922113731339,43.24753612898,0 -79.8922523882512,43.2475427474743,0 -79.8923115795405,43.2475584979429,0 -79.8923736485141,43.2475828053981,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8923736485141,43.2475828053981,0 -79.8924215726502,43.2476246509716,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9033666892912,43.2649718732281,0 -79.903359030024,43.2650181409081,0 -79.9033600997629,43.2650311690701,0 -79.9033747242621,43.2651119551067,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9029821845567,43.2648821275964,0 -79.903254247477,43.2649440587475,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9034791528134,43.2651516921366,0 -79.9035318718519,43.265119176872,0 -79.9035596145293,43.265098487384,0 -79.9035786352672,43.2650796196491,0 -79.903617715701,43.2650282071833,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.903254247477,43.2649440587475,0 -79.903317039561,43.2649612220274,0 -79.9033666892912,43.2649718732281,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9033666892912,43.2649718732281,0 -79.903423941779,43.2649841550872,0 -79.9035515853584,43.2650133190383,0 -79.903617715701,43.2650282071833,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9058723497114,43.265048591953,0 -79.9058440544386,43.2650478278324,0 -79.9058031043044,43.2650407655095,0 -79.9057701235285,43.2650346132355,0 -79.905730239528,43.2650317302016,0 -79.9056846204913,43.2650304599305,0 -79.9055317475581,43.2650289972271,0 -79.9054645133343,43.2650241838425,0 -79.9054064340502,43.2650177912845,0 -79.9053312890226,43.2650087339007,0 -79.9052539508738,43.2649946516375,0 -79.9050947563702,43.264963942234,0 -79.9049537099693,43.2649392440195,0 -79.904852399313,43.2649257666974,0 -79.9047658005776,43.2649190998446,0 -79.9046779564205,43.2649182586623,0 -79.9045832065245,43.2649206865687,0 -79.9045066356466,43.2649274585278,0 -79.9043979869575,43.2649414275852,0 -79.9043017672331,43.2649621861886,0 -79.904246722895,43.2649775024168,0 -79.9041824625057,43.2649977332625,0 -79.9041101255958,43.2650228896282,0 -79.9040583838604,43.2650449079931,0 -79.9039835707959,43.2650808811536,0 -79.9039155437706,43.2651202545874,0 -79.9038210366542,43.2651727162753,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9038210366542,43.2651727162753,0 -79.9034867889496,43.2653768147296,0 -79.903360210762,43.2654542227873,0 -79.903271735253,43.2655066220857,0 -79.9031850191959,43.2655699976471,0 -79.9031189283756,43.265628567999,0 -79.9030676528271,43.2656881151198,0 -79.9030102988808,43.2657684494949,0 -79.9029691406122,43.2658364309319,0 -79.9028420792989,43.2660495154996,0 -79.902812614486,43.2661017655068,0 -79.902789214294,43.2661340619321,0 -79.9027625401927,43.266157987816,0 -79.9027162763962,43.2661925663618,0 -79.90267702216,43.2662180391842,0 -79.9026481262518,43.2662386093343,0 -79.9026283118838,43.2662617671755,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.907387238174,43.2450777692323,0 -79.9073868942736,43.2450733032674,0 -79.9073799537148,43.2450484716176,0 -79.9073671283969,43.2450127881389,0 -79.9073383415896,43.2449223419856,0 -79.9072776767288,43.2447201458526,0 -79.9072588644254,43.2446548772782,0 -79.9072489822171,43.2446246201586,0 -79.9072322128626,43.2445908043571,0 -79.9071706575948,43.244487026245,0 -79.9070895810355,43.2443576623,0 -79.9070454750883,43.2442981841923,0 -79.9070182518609,43.2442661738428,0 -79.9070016336629,43.2442482345625,0 -79.9069849656121,43.2442331528639,0 -79.9069682793226,43.244219022775,0 -79.9069511481758,43.2442055241574,0 -79.9069266623962,43.2441903668436,0 -79.906899115723,43.2441764508227,0 -79.9068732657735,43.2441647742463,0 -79.9068215703882,43.2441411014558,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9073896240816,43.2451088497897,0 -79.9073886569487,43.245096180984,0 -79.907387238174,43.2450777692323,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8941200988118,43.2731560954499,0 -79.8941445682666,43.2731396745092,0 -79.8941828145017,43.2731081114329,0 -79.8942158346878,43.2730771452464,0 -79.8942327281278,43.2730550547112,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8942327281278,43.2730550547112,0 -79.8942581588114,43.2730251533144,0 -79.8942861159924,43.2729791752907,0 -79.8943017216408,43.2729495958131,0 -79.89433287187,43.2728937391315,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9170678199583,43.2527226313229,0 -79.9170129151487,43.2527407366179,0 -79.9169569189157,43.2527551158291,0 -79.9169000838183,43.2527657041022,0 -79.916842666199,43.252772453681,0 -79.9167849250276,43.252775334123,0 -79.9167271207332,43.2527743324366,0 -79.9166695140297,43.2527694531396,0 -79.9166123647399,43.2527607182392,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.932264254276,43.256212558295,0 -79.9322780724354,43.2562224878778,0 -79.9322966062579,43.2562294782576,0 -79.9323268349081,43.2562344482129,0 -79.9323686542032,43.2562433605004,0 -79.9324575741007,43.2562479426485,0 -79.9327893586039,43.2562558084886,0 -79.9330315129256,43.2562635756962,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9273100568711,43.2560601852851,0 -79.9271919638954,43.2560402581432,0 -79.9270738722307,43.2560203308917,0 -79.9266939845125,43.2559527811358,0 -79.9262886192916,43.2558699343913,0 -79.9257088570896,43.255747810106,0 -79.9250214383456,43.2555983237365,0 -79.9242058334558,43.2554175172391,0 -79.9234517522599,43.2552523387652,0 -79.9233645559959,43.2552326984633,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9300879863042,43.2563434491408,0 -79.9291258180251,43.2564967635905,0 -79.9290817358806,43.2565886523902,0 -79.929037653601,43.2566805411702,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9163007442843,43.2535951786876,0 -79.9165331242958,43.2536544890114,0 -79.9166654675365,43.2536980460944,0 -79.9167812392673,43.2537513160202,0 -79.9168819174191,43.2537854072032,0 -79.9169893343076,43.2538202671617,0 -79.9171660540287,43.2538635378692,0 -79.9177271756788,43.2539880026481,0 -79.9185967243608,43.254180950667,0 -79.9196739142088,43.2544146316716,0 -79.919863188015,43.2544573117231,0 -79.920843339579,43.2546696185973,0 -79.9210192109094,43.2547065307133,0 -79.9214170381089,43.2547927738115,0 -79.9217013222188,43.2548631398481,0 -79.922002992242,43.2549322580144,0 -79.922402676705,43.2550227455432,0 -79.9232339761101,43.2551983765271,0 -79.9233645559959,43.2552326984633,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9289285276567,43.2567380743916,0 -79.9288271341541,43.2567547405696,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.929037653601,43.2566805411702,0 -79.9290176779852,43.256723420372,0 -79.9289285276567,43.2567380743916,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9282274058308,43.2674029244969,0 -79.9281755186515,43.267379680134,0 -79.9280122463899,43.2673248087539,0 -79.9278170629523,43.2672563031438,0 -79.9276202542824,43.2671814328402,0 -79.9275249124041,43.2671427557315,0 -79.9274295718796,43.2671040785558,0 -79.9272432786057,43.2670242249292,0 -79.9270700513604,43.2669425890978,0 -79.9268874687571,43.2668494348294,0 -79.926729067433,43.2667647625652,0 -79.9265440699103,43.2666607895066,0 -79.9263652456934,43.2665506123155,0 -79.9262042883797,43.2664423575705,0 -79.9260494273466,43.266337953464,0 -79.9258974685423,43.266221642642,0 -79.9257680312453,43.2661207302473,0 -79.925604401038,43.2659877464071,0 -79.9254914061952,43.2658907988782,0 -79.9253502969113,43.2657631840544,0 -79.9252316255714,43.2656419741401,0 -79.9251225194873,43.2655215671524,0 -79.9249963326161,43.2653806942139,0 -79.9248900703456,43.2652477397425,0 -79.9248179973634,43.265099597982,0 -79.9247676978284,43.2649953015214,0 -79.9247173972459,43.2648910041267,0 -79.9246098595309,43.2646817101273,0 -79.9245392731821,43.2645451539337,0 -79.9244696910326,43.2644009874659,0 -79.9243849851616,43.264227467893,0 -79.9243757589544,43.2642041592338,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9286074134421,43.2675055763587,0 -79.9284120945346,43.2674565915034,0 -79.9282274058308,43.2674029244969,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8996885960211,43.2526248035561,0 -79.8994692843349,43.2525134580991,0 -79.8993279255214,43.252444554511,0 -79.8991243287486,43.2523475346326,0 -79.8989783471972,43.2522819223194,0 -79.8987078024534,43.2521650783771,0 -79.8985821725062,43.2521096674027,0 -79.898531266314,43.2520858292047,0 -79.8984895145573,43.2520604114928,0 -79.8984602198719,43.2520401166815,0 -79.8984332664148,43.2520165082102,0 -79.8984154385261,43.2519929885193,0 -79.8984079343987,43.2519662329528,0 -79.898400551746,43.2519328070562,0 -79.8983954501804,43.251899403128,0 -79.8983929001952,43.2518510149258,0 -79.8983902738598,43.2518067942118,0 -79.8983805951154,43.2517741809248,0 -79.8983662791105,43.2517456911987,0 -79.8983484350648,43.2517230051657,0 -79.8983282348183,43.2517044655606,0 -79.8982528222257,43.2516478702295,0 -79.8982212016565,43.2516300544272,0 -79.8981837569436,43.2516188540134,0 -79.898130419937,43.2516033304693,0 -79.898089584967,43.2515904288152,0 -79.8980510899785,43.2515742143901,0 -79.8980104504697,43.251550474867,0 -79.8979777947212,43.2515268122497,0 -79.8979521175081,43.2514957115352,0 -79.8979333436283,43.2514613429291,0 -79.8979225384671,43.2514278840235,0 -79.8979186228314,43.2513919900232,0 -79.8979215353428,43.2513569956373,0 -79.8979323726332,43.2513254138066,0 -79.8979454897532,43.25129385304,0 -79.8981465443364,43.2508988703941,0 -79.8981585357601,43.2508664649315,0 -79.8981693716046,43.2508348830615,0 -79.8981744309393,43.2508074137709,0 -79.8981691630001,43.2507831811996,0 -79.8981513505943,43.2507588277873,0 -79.8981254932228,43.2507377321733,0 -79.8981029672361,43.2507216715965,0 -79.8980730878908,43.2507067215774,0 -79.8976464908312,43.2505786115592,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9318239147505,43.2561341536996,0 -79.9318637895318,43.2561095356373,0 -79.9319052122087,43.2561077919629,0 -79.931948354226,43.2561077688965,0 -79.9319751825787,43.256107166671,0 -79.9320043352374,43.256107012959,0 -79.9320299672883,43.2561081050196,0 -79.9320520874387,43.2561100152187,0 -79.9320753591726,43.2561127898001,0 -79.9320974420831,43.2561168310287,0 -79.9321247711614,43.2561209212316,0 -79.9321433347192,43.2561262073454,0 -79.9321624064475,43.2561357600719,0 -79.9321803203718,43.256144875169,0 -79.9322084722652,43.2561685742206,0 -79.932264254276,43.256212558295,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9318239147505,43.2561341536996,0 -79.9316859045781,43.2561563262376,0 -79.9317109656741,43.2562385587811,0 -79.931736025588,43.2563207922076,0 -79.9312106651838,43.2563118449652,0 -79.9304474871637,43.2562938048929,0 -79.9302113287334,43.2562879612462,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9163007442843,43.2535951786876,0 -79.9161845857149,43.253563760548,0 -79.9160550501258,43.2535251658307,0 -79.9159149809166,43.2534822398757,0 -79.9157837201364,43.2534395953446,0 -79.9156398002022,43.2533930649335,0 -79.9155388558191,43.2533574600626,0 -79.9154320308899,43.2533193248824,0 -79.9153092919402,43.25327175766,0 -79.9151949931272,43.2532255075831,0 -79.9150738810491,43.2531816672287,0 -79.9149593848812,43.2531465519204,0 -79.9148339750279,43.2531063840353,0 -79.9146824836526,43.2530573052251,0 -79.9140070438549,43.2529123028705,0 -79.9138839428044,43.2528851485864,0 -79.913770349066,43.2528469466793,0 -79.9136678133019,43.2528057566052,0 -79.9135795882739,43.2527690335731,0 -79.9134394303222,43.2527015005012,0 -79.9132985475155,43.252627153801,0 -79.9131811307603,43.2525660235184,0 -79.9129461989408,43.2524493291942,0 -79.9127177402799,43.252349401234,0 -79.9125168490865,43.2522701519241,0 -79.9123705047933,43.2522174072923,0 -79.9122491325239,43.2521884109398,0 -79.9121159224573,43.2521586841555,0 -79.9119675119914,43.2521269549802,0 -79.9118293781434,43.2520885186099,0 -79.9116945643091,43.2520538253536,0 -79.9115680042573,43.2520309659723,0 -79.9114557533312,43.2520125738358,0 -79.9113308429466,43.2519922052535,0 -79.9112033696303,43.2519730493691,0 -79.9110816567354,43.251963228313,0 -79.9109827709168,43.2519548625939,0 -79.9109008673778,43.2519435645113,0 -79.9107727024844,43.2519157400465,0 -79.9104943714342,43.2518598793226,0 -79.9103518097663,43.2518325358696,0 -79.9101855959304,43.251802491526,0 -79.9099813757499,43.2517677535536,0 -79.9098015549114,43.2517412915744,0 -79.9096360553394,43.2517186775249,0 -79.9094603552573,43.2516984413451,0 -79.9092507607575,43.2516803561451,0 -79.9090360206613,43.2516659340758,0 -79.9088423293213,43.2516578994553,0 -79.908610586287,43.2516476455935,0 -79.9083608737334,43.2516483557437,0 -79.908175478444,43.2516496802005,0 -79.908095981747,43.2516458273685,0 -79.9080284099816,43.2516377580178,0 -79.9079685225218,43.2516260493984,0 -79.9076941219114,43.2515399027303,0 -79.9076157922015,43.2515181190623,0 -79.9075634872529,43.2515083384917,0 -79.9075128095261,43.2515022860319,0 -79.9074510517958,43.251500458925,0 -79.9073189296983,43.2515047652936,0 -79.9071369318213,43.2515055010065,0 -79.9070109110818,43.251499966568,0 -79.9069052450502,43.2514921502498,0 -79.9068300802782,43.2514827703977,0 -79.9067752923218,43.2514698726594,0 -79.9067214722947,43.2514501775766,0 -79.906646121946,43.2514049026317,0 -79.9065434509837,43.2513610692325,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9284112784449,43.2568049737376,0 -79.9279000096941,43.2568215848567,0 -79.9278772922785,43.2568199338916,0 -79.9278629121185,43.2568147538329,0 -79.9278520762136,43.2568043195012,0 -79.92785193794,43.2567868529096,0 -79.9278504469372,43.2567493051167,0 -79.9278431198348,43.2567292480556,0 -79.9278298513605,43.2567135835676,0 -79.927803419667,43.2566953545455,0 -79.9277578834071,43.2566789526498,0 -79.9275842825372,43.2566360157003,0 -79.9275387463818,43.2566196137182,0 -79.9275159605791,43.2566092293922,0 -79.9274955034014,43.2565909752765,0 -79.9274821323437,43.2565622108141,0 -79.9273397558836,43.2560842098002,0 -79.9273100568711,43.2560601852851,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9302237532247,43.2563218149368,0 -79.9300879863042,43.2563434491408,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9302113287334,43.2562879612462,0 -79.9302237532247,43.2563218149368,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9288271341541,43.2567547405696,0 -79.9285486838507,43.2568005088124,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9065434509837,43.2513610692325,0 -79.9064150797961,43.2513062628609,0 -79.9062453112932,43.2512961311779,0 -79.90594768376,43.2512756997327,0 -79.9058173940528,43.2512710506201,0 -79.9056319974228,43.2512670078078,0 -79.905500820091,43.2512685891228,0 -79.9053897972841,43.2512714968408,0 -79.9052709933508,43.2512754654585,0 -79.904829114331,43.2512933579539,0 -79.9045775225023,43.2513022936572,0 -79.904367848837,43.2513104957569,0 -79.9040098567066,43.2513240829782,0 -79.9039399658521,43.2513268170108,0 -79.9037854308171,43.251332709945,0 -79.9037660852493,43.2513296889944,0 -79.9037461151078,43.2513181527168,0 -79.9037354869571,43.2513050041042,0 -79.903720988725,43.2512930637334,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9285486838507,43.2568005088124,0 -79.9284112784449,43.2568049737376,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9408742314226,43.2609777990988,0 -79.9405054647417,43.2610413563425,0 -79.94023530738,43.2610894908624,0 -79.9401893543255,43.2610972322441,0 -79.9401233036401,43.2611039706648,0 -79.9400740977655,43.2611059648497,0 -79.9400182446303,43.2611046305503,0 -79.9399613025136,43.2611016527003,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8923736485141,43.2475828053981,0 -79.8924425633656,43.2475762141111,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9160583225047,43.2526975318765,0 -79.9160098639344,43.2526905987111,0 -79.9159611180883,43.2526861104713,0 -79.9159122082433,43.2526840785079,0 -79.9158632580912,43.2526845079596,0 -79.9158143914259,43.2526873977402,0 -79.9157657318299,43.2526927405417,0 -79.9157174023621,43.2527005228523,0 -79.9156695252466,43.2527107249906,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9154281585013,43.2529394493649,0 -79.9154142509936,43.2529134930045,0 -79.9154051096932,43.2528855003619,0 -79.9154010177851,43.2528563386112,0 -79.9154021020313,43.252826911144,0 -79.9154083288432,43.2527981295834,0 -79.9154195053225,43.2527708855433,0 -79.9154352852372,43.252746023007,0 -79.9154551797467,43.2527243121824,0 -79.9154713921813,43.2527123445211,0 -79.915488873079,43.2527023202423,0 -79.9155073905884,43.2526943722994,0 -79.9155266991092,43.2526886061069,0 -79.9155465425499,43.2526850981427,0 -79.9155666577243,43.2526838949335,0 -79.915586777842,43.2526850124374,0 -79.9156066360471,43.252688435833,0 -79.9156311067824,43.252691513957,0 -79.9156542327863,43.252700085986,0 -79.9156747978153,43.2527137010995,0 -79.9156917203131,43.2527316432511,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9158080261298,43.2530933084253,0 -79.9157555080921,43.2530912080704,0 -79.9157034514115,43.253083951502,0 -79.9156523610868,43.2530716091158,0 -79.9156027327421,43.2530543006445,0 -79.9155550478191,43.2530321939965,0 -79.9155097689062,43.253005503627,0 -79.9154673352515,43.2529744884577,0 -79.9154281585013,43.2529394493649,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9166123647399,43.2527607182392,0 -79.9160583225047,43.2526975318765,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9163418898743,43.2533585434094,0 -79.9163602539064,43.2533758056132,0 -79.9163798331089,43.2533916762209,0 -79.9164005222785,43.2534060699562,0 -79.916422210248,43.2534189094786,0 -79.9164447804833,43.2534301257986,0 -79.9164681117097,43.2534396586486,0 -79.9164920785637,43.2534474568065,0 -79.9165165522662,43.2534534783712,0 -79.9166282769965,43.2534821634728,0 -79.9167406538162,43.2535081769462,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9160987503877,43.2531171822007,0 -79.9158080261298,43.2530933084253,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9026283118838,43.2662617671755,0 -79.9025884223157,43.2662532596399,0 -79.9025315398655,43.2662437804342,0 -79.9024884455899,43.2662380056161,0 -79.9024559462918,43.2662323333487,0 -79.9024104719859,43.2662229626509,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9027804665177,43.2663837800176,0 -79.9026767273586,43.2664190930308,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9027804665177,43.2663837800176,0 -79.902642907057,43.2663508678238,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9038210366542,43.2651727162753,0 -79.9037022315168,43.2650531693345,0 -79.9036852992707,43.2650430002638,0 -79.9036704554045,43.2650386060281,0 -79.9036541711543,43.2650346229997,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9061332128671,43.2650740198554,0 -79.9060994091996,43.2650611108818,0 -79.906058532459,43.265049879336,0 -79.906023241446,43.2650453726858,0 -79.9059821556809,43.2650458135381,0 -79.9059296022922,43.265049480878,0 -79.9058919550528,43.265049120765,0 -79.9058723497114,43.265048591953,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9156917203131,43.2527316432511,0 -79.915826188454,43.252868598151,0 -79.9159771066614,43.2529938371409,0 -79.9160987503877,43.2531171822007,0 -79.9161594532336,43.2531787337926,0 -79.9163418898743,43.2533585434094,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9061332128671,43.2650740198554,0 -79.9061433321292,43.2650550566581,0 -79.9061681202427,43.2650362337419,0 -79.9061996867945,43.2650228288589,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9061517677271,43.2651301850157,0 -79.9061456747909,43.2651063015561,0 -79.9061332128671,43.2650740198554,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9036541711543,43.2650346229997,0 -79.90366680328,43.2650328387135,0 -79.9037873779366,43.2649958942338,0 -79.9039219563213,43.2649533677223,0 -79.9039815470942,43.2649253636553,0 -79.9040025630032,43.2649163578623,0 -79.9040244986994,43.2649045028285,0 -79.904037431418,43.264885893642,0 -79.9040473590753,43.2648653511938,0 -79.9040511122518,43.2648498290605,0 -79.9040522781625,43.2648333303536,0 -79.9040513620499,43.2648117313191,0 -79.9040452221842,43.2647907170541,0 -79.9040182865777,43.2647421980687,0 -79.9040021499523,43.264721405873,0 -79.903984225041,43.2647034536892,0 -79.9039688202662,43.2646902881686,0 -79.9039533528374,43.264680614918,0 -79.9039378626362,43.2646722110916,0 -79.9039205955133,43.2646660134633,0 -79.9038989731869,43.2646604080181,0 -79.9038818960771,43.2646581102832,0 -79.9038648975914,43.2646561689797,0 -79.9038504687444,43.2646547439493,0 -79.9038352032852,43.2646550343739,0 -79.9038064822104,43.2646576171696,0 -79.9037763792205,43.2646646313692,0 -79.9036265454607,43.2647098677334,0 -79.9035614226772,43.2647314694648,0 -79.9035158825729,43.2647513526204,0 -79.9034724276365,43.2647760191652,0 -79.9034245914715,43.2648078725581,0 -79.9034179022095,43.2648123269197,0 -79.9032876299644,43.2649053773456,0 -79.903254247477,43.2649440587475,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.903617715701,43.2650282071833,0 -79.9036294626678,43.2650315290118,0 -79.9036411452768,43.2650341802822,0 -79.9036541711543,43.2650346229997,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9028046760062,43.2663570597831,0 -79.9028169703426,43.2663713536075,0 -79.9028326134791,43.2663898486681,0 -79.902850328608,43.2664200371222,0 -79.9028611826531,43.2664509944844,0 -79.9028664374762,43.2664760604766,0 -79.9028811250045,43.2666112869701,0 -79.9028873110123,43.2666480363132,0 -79.9029037506428,43.2666857178295,0 -79.9029327991874,43.2667201849913,0 -79.9029698796472,43.2667522277131,0 -79.9030352261055,43.2667987165034,0 -79.9030736121904,43.2668215987612,0 -79.9031144134525,43.2668369997619,0 -79.9031643724739,43.2668508209211,0 -79.9032495185704,43.2668749853384,0 -79.9033312572385,43.2668982831989,0 -79.9034107292927,43.2669207254474,0 -79.9034810598599,43.2669439138268,0 -79.903553672111,43.2669671249358,0 -79.9036581389418,43.2669956433718,0 -79.9037353894493,43.2670147288093,0 -79.9038320502135,43.2670331663949,0 -79.9039344151613,43.2670516585609,0 -79.9040277570669,43.2670642265169,0 -79.9041176927097,43.2670759288384,0 -79.9042019230289,43.2670875764299,0 -79.9042543286892,43.2670922476011,0 -79.9043101717901,43.2670961178545,0 -79.9043684460907,43.2670916731407,0 -79.904423462409,43.2670780242391,0 -79.904467130262,43.2670609313232,0 -79.904506278416,43.2670412936335,0 -79.9045455922606,43.2670124845655,0 -79.9045896475427,43.2669737150186,0 -79.9046150907729,43.2669547798606,0 -79.9046507428084,43.2669392786539,0 -79.9046864085597,43.2669229428441,0 -79.9047311572558,43.2669091954686,0 -79.9047679637905,43.266892870557,0 -79.9047990811447,43.2668756573358,0 -79.904825754777,43.2668517309747,0 -79.9048548894135,43.2668178213956,0 -79.9048693278795,43.266776266694,0 -79.9048757812523,43.2667453887907,0 -79.9048778891284,43.2667260995795,0 -79.9048719996209,43.266672676724,0 -79.9048591767862,43.2666241895204,0 -79.904835965798,43.266582274334,0 -79.9048092576559,43.2665444947716,0 -79.9047781208203,43.2664991683901,0 -79.9047435005785,43.2664571430351,0 -79.9047225127941,43.266418584405,0 -79.9047083836279,43.2663792576263,0 -79.9047010557345,43.2663424974439,0 -79.9046973446217,43.2662949321972,0 -79.9047014547443,43.2662566138993,0 -79.9047111941641,43.266222518622,0 -79.9047242961884,43.2661917917357,0 -79.9047419477326,43.2661619413352,0 -79.9047676148106,43.2661305000387,0 -79.9048001565849,43.2660974578173,0 -79.9049175067279,43.265980172239,0 -79.9049791376314,43.2659157213908,0 -79.9050323942159,43.2658728706391,0 -79.9050763300382,43.2658407703363,0 -79.905135275555,43.2657988078176,0 -79.9051998951121,43.2657585672245,0 -79.9052563646285,43.2657274206426,0 -79.90539686441,43.2656553852765,0 -79.9054545193455,43.2656217484712,0 -79.9055042334288,43.2655855350819,0 -79.9055471910925,43.2655442522818,0 -79.9055901947234,43.2655004693363,0 -79.9056230792768,43.2654482504243,0 -79.9056456667353,43.2653976015291,0 -79.9057006400148,43.2652588718263,0 -79.9057174487078,43.2652123367433,0 -79.9057375291697,43.2651741711898,0 -79.9057599073514,43.2651351937911,0 -79.9057901963587,43.2651004611827,0 -79.9058214481375,43.2650757445542,0 -79.9058480011115,43.2650584873767,0 -79.9058723497114,43.265048591953,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9028046760062,43.2663570597831,0 -79.902780903025,43.2663367056272,0 -79.9027535393945,43.2663173840621,0 -79.9027269152537,43.2663022377986,0 -79.9026856647639,43.2662845695014,0 -79.9026283118838,43.2662617671755,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9028169703426,43.2663713536075,0 -79.9027804665177,43.2663837800176,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9024597652736,43.2663101433409,0 -79.902642907057,43.2663508678238,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.902642907057,43.2663508678238,0 -79.9026343937677,43.2663710374177,0 -79.9025153858763,43.2663716820846,0 -79.9025068511411,43.2663930427672,0 -79.9026448176256,43.2664259338167,0 -79.9026767273586,43.2664190930308,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8952455657656,43.2456754532186,0 -79.8952415599594,43.2456776386645,0 -79.8952142165676,43.2456865943754,0 -79.8951939521805,43.2456932322363,0 -79.8951354416252,43.2457056409032,0 -79.8950895933904,43.2457006885296,0 -79.8950372837601,43.2456875326634,0 -79.8949834839038,43.245686358301,0 -79.8949466837962,43.2456727804324,0 -79.8948989961046,43.2456719415206,0 -79.8948893487851,43.24566833472,0 -79.8948404845743,43.2456606247149,0 -79.8947824762117,43.2456480493962,0 -79.8947166807364,43.2456350584279,0 -79.8946716678424,43.2456194732263,0 -79.8946247309861,43.2456042944312,0 -79.8945689877202,43.2455968401969,0 -79.8945259945134,43.245584687199,0 -79.8944857647513,43.2455654877826,0 -79.8944401586234,43.2455632307637,0 -79.8943915463116,43.2455590356948,0 -79.8943446837793,43.2455383241783,0 -79.8943078991236,43.2455085830015,0 -79.8942639796544,43.2454772321547,0 -79.8942173747872,43.2454582843759,0 -79.8941649935961,43.2454373267364,0 -79.8941135154148,43.2454228322986,0 -79.894052916362,43.245413357058,0 -79.8939959134366,43.2453960888609,0 -79.8939595533,43.2453665902983,0 -79.8939113468331,43.2453456269868,0 -79.8938696849407,43.2453198212389,0 -79.8938189053463,43.245298860019,0 -79.8937743894744,43.2452781619578,0 -79.893727453253,43.2452552838696,0 -79.8936725496541,43.2452390956561,0 -79.8936067492351,43.2452382566061,0 -79.8935425530717,43.2452296323538,0 -79.8934835439685,43.2452145389152,0 -79.8934375227288,43.2451975333531,0 -79.8933816933798,43.2451844525353,0 -79.8933278912485,43.2451750615778,0 -79.8932824624741,43.2451476514702,0 -79.8932410537649,43.2451246879927,0 -79.8931822892204,43.2451169823359,0 -79.8931409709384,43.2451007965573,0 -79.8930936953365,43.2450973612535,0 -79.893034441921,43.2450965203974,0 -79.8929646983872,43.2450946838282,0 -79.8929096251151,43.2450899915769,0 -79.892853556449,43.2450936720442,0 -79.8927965601405,43.2451178964984,0 -79.8927742608541,43.2451386766645,0 -79.8927524702774,43.2451662566199,0 -79.892728663861,43.2451944167631,0 -79.8927021848608,43.2452231687444,0 -79.8926662159906,43.2452570389093,0 -79.8926256559021,43.2452888908064,0 -79.892572682956,43.2453075019133,0 -79.892526575123,43.2453141187073,0 -79.8924755322664,43.2453111806455,0 -79.8924076450266,43.2453168760463,0 -79.8923395840735,43.2453099290711,0 -79.8923210841282,43.2453088449588,0 -79.8922681547347,43.2453057426609,0 -79.892190455964,43.245303717821,0 -79.8921361553441,43.2452981844473,0 -79.8920793208179,43.245289058883,0 -79.8920207268551,43.2452858727886,0 -79.8919743748966,43.2452760554064,0 -79.8919202360091,43.2452657474586,0 -79.8918561850282,43.2452637348415,0 -79.8917956700339,43.2452621526493,0 -79.891747387954,43.2452515880032,0 -79.8916945835479,43.2452386752419,0 -79.891626284378,43.2452337344598,0 -79.8915683539615,43.2452231689929,0 -79.8915279627489,43.2452039030391,0 -79.891481514723,43.2451833609516,0 -79.8914278813307,43.2451640026467,0 -79.891373652731,43.2451440496472,0 -79.8913162335737,43.245132400352,0 -79.8912642609435,43.2451244371771,0 -79.8912135470846,43.2451186526866,0 -79.8911598206972,43.2451113550125,0 -79.8911386459794,43.2451041489518,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9337878829476,43.255267250966,0 -79.9337764569743,43.2552704689529,0 -79.933762668928,43.2552786516618,0 -79.93375337181,43.2552901998267,0 -79.933748679126,43.2552984673186,0 -79.9337470872956,43.2553082179572,0 -79.933743812456,43.2553167057714,0 -79.9337368169406,43.2553266131428,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9023908856328,43.2663150958218,0 -79.9023993668975,43.2662967124448,0 -79.9024597652736,43.2663101433409,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9017876345219,43.2676178974207,0 -79.9018611267496,43.2676375432389,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9146774295176,43.2445344098547,0 -79.9146109345354,43.2445834663008,0 -79.9145514070272,43.2446360159775,0 -79.9145246877954,43.2446888769691,0 -79.9144976935022,43.2447571557248,0 -79.91446604353,43.244823676714,0 -79.9144297074248,43.2448901541201,0 -79.9143867054085,43.2449360071404,0 -79.914317743178,43.2449918933977,0 -79.9142514603918,43.2450289584151,0 -79.9141357224481,43.245079260724,0 -79.9140929330948,43.245113122422,0 -79.9140430531211,43.2451503430368,0 -79.9139885771019,43.2451823792658,0 -79.9139366577096,43.2452024474155,0 -79.9138684252804,43.2452172199156,0 -79.9137909424354,43.2452250511298,0 -79.9137347922934,43.2452193771782,0 -79.9136763301743,43.2452119685667,0 -79.9136179594009,43.2451994209666,0 -79.9135688390192,43.2451938136997,0 -79.9135290627793,43.2451900096431,0 -79.9134821350475,43.2451929901434,0 -79.9134210552784,43.2452009769164,0 -79.9133622265606,43.2452141248679,0 -79.9132727829843,43.2452355498088,0 -79.9131598139328,43.2452618900762,0 -79.9130234411648,43.2452862951564,0 -79.912903715144,43.2452971505803,0 -79.9128028589553,43.2453013318327,0 -79.9127186191564,43.245293677717,0 -79.912657843923,43.245284533022,0 -79.9125878836695,43.2452736441294,0 -79.9125185560285,43.2452749714474,0 -79.9124511959094,43.2452802920611,0 -79.9123858386848,43.2452876171941,0 -79.9123294671227,43.2452985449314,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8996650525839,43.2462454151012,0 -79.8996591538051,43.2462083827795,0 -79.899641384522,43.2461836572059,0 -79.8996344342153,43.2461458502767,0 -79.8996310807317,43.2461065372617,0 -79.8996360161078,43.2460663918194,0 -79.8996443154784,43.2460292565584,0 -79.8996564759529,43.2459955711819,0 -79.8996864753188,43.2459581746243,0 -79.8997100247451,43.2459252435265,0 -79.8997396232652,43.2458897880917,0 -79.8997708933387,43.2458483750772,0 -79.8997844661453,43.2458125907922,0 -79.8997731518302,43.2457859265039,0 -79.8997662798952,43.2457683311537,0 -79.899771059245,43.2457403377082,0 -79.8997694663673,43.2457139326117,0 -79.8997586531424,43.2456895413996,0 -79.899745990607,43.245672701663,0 -79.8997560552383,43.2456601200002,0 -79.8997505213655,43.2456297771036,0 -79.8997367691835,43.245595666871,0 -79.8997124654834,43.2455660835025,0 -79.8996873244537,43.245542439611,0 -79.8996657751918,43.2455217432533,0 -79.8996359350492,43.2455215669531,0 -79.8995928612516,43.2455264274708,0 -79.8995495154714,43.2455394165077,0 -79.8995091256351,43.2455528319708,0 -79.899477026296,43.2455604615903,0 -79.8994574877131,43.2455590381704,0 -79.8994301600918,43.2455678392626,0 -79.8993851513286,43.2455849345412,0 -79.8993335224898,43.2456095830893,0 -79.899283140039,43.2456287661111,0 -79.8992362888903,43.245642348917,0 -79.8991956398108,43.2456603712277,0 -79.8991619432329,43.2456719420073,0 -79.8991182695604,43.2456841812434,0 -79.8990808928308,43.2456997641461,0 -79.8990518912354,43.2457118411168,0 -79.8990271602839,43.2457165267912,0 -79.8989936361075,43.2457143509606,0 -79.898959853821,43.2457075622817,0 -79.8989200454577,43.2457075572779,0 -79.8988813248219,43.2456941458807,0 -79.8988373985408,43.2456811552966,0 -79.8988109859675,43.2456706754002,0 -79.8987876841486,43.2456618759889,0 -79.8987564335288,43.2456727777434,0 -79.8987336298835,43.2456601201449,0 -79.8987124150526,43.2456523268149,0 -79.8986940619055,43.2456607900204,0 -79.8986556838946,43.2456584475959,0 -79.8986094950277,43.2456520823329,0 -79.8985640635998,43.2456561822848,0 -79.8985083213737,43.2456619703406,0 -79.8984521646243,43.2456690924605,0 -79.898404044633,43.2456782270409,0 -79.8983417757447,43.2457046258146,0 -79.8982906427315,43.2457311228077,0 -79.8982264385327,43.2457564331316,0 -79.8981938326586,43.2457529926618,0 -79.8981409415399,43.2457629672254,0 -79.8980997868816,43.24577327634,0 -79.898056865518,43.2457899580821,0 -79.898000960176,43.245806219367,0 -79.8979447152559,43.2458098177893,0 -79.8979054954307,43.2458275859742,0 -79.897833494452,43.2458452787032,0 -79.8977979559853,43.2458491315009,0 -79.8977612440544,43.2458635488792,0 -79.897724700108,43.2458811500892,0 -79.8976690451281,43.2459024390897,0 -79.8976296470412,43.245917448254,0 -79.8975861415131,43.2459245721122,0 -79.8975194147583,43.2459253301034,0 -79.8974561386217,43.2459208752381,0 -79.8974018273703,43.2459277561982,0 -79.8973626753291,43.2459417537245,0 -79.8973316712486,43.2459473654635,0 -79.8972975554604,43.2459415869964,0 -79.8972471753005,43.2459479610022,0 -79.8972033463385,43.2459667272418,0 -79.8971669682603,43.245975873655,0 -79.8971179281762,43.2459778815886,0 -79.8970653822259,43.2459792190712,0 -79.8970108868717,43.2459844196134,0 -79.8969647920315,43.245987515723,0 -79.8969404873058,43.2459832427806,0 -79.8969025208684,43.2459664819742,0 -79.8968465263309,43.2459526457691,0 -79.896779975736,43.245934632244,0 -79.8967274233782,43.2459195379209,0 -79.8966662281869,43.2459115800917,0 -79.8966105688985,43.245898761823,0 -79.8965571787196,43.2458881868511,0 -79.8965072327395,43.2458851783274,0 -79.8964616318108,43.2458783856486,0 -79.8964101582037,43.245861540288,0 -79.8963513136066,43.2458491332864,0 -79.8962886311389,43.2458502159277,0 -79.8962341415772,43.2458313594744,0 -79.8961645730984,43.2458218915473,0 -79.8961149473716,43.2458123396009,0 -79.8960712019684,43.2457991831156,0 -79.8960246790064,43.245781316515,0 -79.8959679334381,43.2457707548068,0 -79.8959222549414,43.2457500562654,0 -79.8958767460205,43.2457284273669,0 -79.8958458881976,43.2457015281166,0 -79.8958140452089,43.2456760483774,0 -79.8957717945147,43.245657687142,0 -79.895730894763,43.2456587771571,0 -79.8956930860975,43.2456549264626,0 -79.8956594809628,43.245636990828,0 -79.8956295607592,43.2456342211862,0 -79.8955954334768,43.2456297792832,0 -79.8955577171655,43.2456215685092,0 -79.8955228573094,43.2456115870865,0 -79.8954784350437,43.2456045469648,0 -79.895419417145,43.2456121838446,0 -79.8953879908073,43.2456111698989,0 -79.8953601564951,43.2456158716345,0 -79.8953189251209,43.2456430149025,0 -79.895273999129,43.2456596213114,0 -79.8952544643618,43.245670599242,0 -79.8952455657656,43.2456754532186,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9123294671227,43.2452985449314,0 -79.9122753558813,43.2453100236057,0 -79.9122189936304,43.2453163419218,0 -79.9121756639859,43.2453325973686,0 -79.9121435250422,43.245349884002,0 -79.9121055044721,43.2453718033824,0 -79.9120724848007,43.2453834825584,0 -79.9119995351637,43.2453999226512,0 -79.9119337371989,43.2454095773257,0 -79.9118601567952,43.2454152247183,0 -79.9117800254471,43.2454168116969,0 -79.9117191043378,43.2454195286767,0 -79.9116748164488,43.2454209631487,0 -79.9115785314339,43.24541875933,0 -79.9114519392635,43.2454033859315,0 -79.9113880754854,43.2453946199782,0 -79.9113339850229,43.2453953036892,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9113339850229,43.2453953036892,0 -79.9113600361267,43.2453801312531,0 -79.9113743408934,43.2453665605937,0 -79.9113886761654,43.2453512766473,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9078005531588,43.2441598344826,0 -79.9077280107651,43.2441717689397,0 -79.9076501089765,43.2441848092608,0 -79.9075957529738,43.2442099910907,0 -79.9075224362203,43.2442469850317,0 -79.9074655221895,43.2442841355965,0 -79.9074296381228,43.2443249141593,0 -79.907407874471,43.2443624004377,0 -79.9074024217829,43.2444051823419,0 -79.9074054249971,43.2444994459816,0 -79.9074088862568,43.2445680139631,0 -79.9074096376939,43.2446571171655,0 -79.9074237760785,43.244784041496,0 -79.9074408998967,43.2448750137551,0 -79.9074733115245,43.2449525242791,0 -79.9075089457107,43.2450243035282,0 -79.9075134789302,43.2450379996004,0 -79.9075141372586,43.2450497532898,0 -79.9075040075492,43.2450575940952,0 -79.9074900211833,43.2450625409042,0 -79.907387238174,43.2450777692323,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9113339850229,43.2453953036892,0 -79.9112830117833,43.2453906142843,0 -79.9112148994656,43.2453895364449,0 -79.9111380236957,43.2453857989266,0 -79.911057007625,43.2453837400185,0 -79.9109760209328,43.2453799632549,0 -79.9108814907437,43.2453782041757,0 -79.9107674507064,43.245383559265,0 -79.9106528002547,43.2453901960851,0 -79.9105716529212,43.2453954338117,0 -79.9104846640894,43.2453988995632,0 -79.9104058894944,43.2454028721148,0 -79.9103365181056,43.2454065046715,0 -79.9102843386387,43.2454012846656,0 -79.9102046952626,43.2453880743276,0 -79.9101116219649,43.2453704425766,0 -79.9100081224296,43.2453552632999,0 -79.9099529228766,43.2453440263044,0 -79.9099044265138,43.2453298249177,0 -79.9098542235552,43.2453109617723,0 -79.9098239736326,43.2452986802414,0 -79.9097771971874,43.2452930945865,0 -79.909702271325,43.2452889532729,0 -79.9096051265039,43.2452831764769,0 -79.9094423708176,43.2452744824,0 -79.9093838468597,43.2452704972555,0 -79.9093464756471,43.2452632875247,0 -79.9093150309987,43.2452473494052,0 -79.909280881566,43.2452191149164,0 -79.9092368487614,43.2451852051186,0 -79.9091846103333,43.2451400945691,0 -79.9091198516742,43.2450915022726,0 -79.9090644065288,43.2450464259182,0 -79.908916724017,43.244916514446,0 -79.9088031837564,43.2448434701858,0 -79.9087081775068,43.2447825958675,0 -79.9086293284758,43.2447355824354,0 -79.9085480760061,43.2446919722659,0 -79.9084434510175,43.2446447136486,0 -79.9083388274395,43.2445974540485,0 -79.9082319815525,43.2445433197391,0 -79.9082042595459,43.2445207813541,0 -79.9081700574538,43.2444673403485,0 -79.9080985144657,43.2443340745753,0 -79.9080848808601,43.244308182264,0 -79.9080648185332,43.2442805114036,0 -79.9080470204099,43.2442575850682,0 -79.9080168679364,43.2442358293466,0 -79.9079890333648,43.2442158120228,0 -79.9079483720423,43.2441905207003,0 -79.907910508678,43.2441729847267,0 -79.9078613968479,43.244160493774,0 -79.9078437124948,43.2441566456422,0 -79.9078203674548,43.2441558086241,0 -79.9078005531588,43.2441598344826,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8939149772935,43.2732749954521,0 -79.8938171335,43.2730906597426,0 -79.8938020897782,43.2730571604756,0 -79.8937959504111,43.2730361348924,0 -79.8937963301164,43.2730151732588,0 -79.8938044301658,43.2730000032848,0 -79.8938190665301,43.2729839447437,0 -79.8938387815688,43.2729755585742,0 -79.8939830481473,43.2729312105696,0 -79.8940008927867,43.2729270942546,0 -79.8940155816667,43.272926163849,0 -79.8940297567401,43.2729266583966,0 -79.8940460691831,43.2729305944402,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9291173082686,43.2644388052987,0 -79.9291340527795,43.264434683094,0 -79.9291576341533,43.264428471901,0 -79.9291744209352,43.2644193372393,0 -79.9291893390603,43.2644051821393,0 -79.9292003582717,43.2643902755733,0 -79.9292059687209,43.2643788616712,0 -79.9292127839193,43.2643641606715,0 -79.9292183479673,43.2643466070151,0 -79.9292221941404,43.2643224603348,0 -79.9292227933228,43.2642882773736,0 -79.9292280006885,43.2642516369814,0 -79.9292366876438,43.2642116920672,0 -79.9292487092192,43.2641767831116,0 -79.9292678543657,43.264126096389,0 -79.9292869117892,43.2640804126841,0 -79.9293140569295,43.264028967017,0 -79.9293283307693,43.2639957458817,0 -79.9293367411976,43.2639716428208,0 -79.9293416257766,43.2639533435213,0 -79.9293420056946,43.2639316667608,0 -79.929339080194,43.2639032875696,0 -79.9293282410821,43.2638706660838,0 -79.9293209716705,43.2638297388743,0 -79.9293252707473,43.2637797469919,0 -79.9293353759589,43.2637239726918,0 -79.9293417532126,43.2636856746936,0 -79.9293525315844,43.2636565899525,0 -79.9293656060817,43.2636266937794,0 -79.9293854679736,43.2636001964308,0 -79.9294132568078,43.2635771076688,0 -79.9294381288732,43.2635623316385,0 -79.9294706610949,43.263547626397,0 -79.9295089846313,43.2635372633267,0 -79.9295481986412,43.2635319124204,0 -79.9295853824306,43.2635308313807,0 -79.9296215755557,43.263530455121,0 -79.9296518133314,43.2635350269642,0 -79.9296761471099,43.2635416866414,0 -79.9297033264693,43.2635533767836,0 -79.9297226955771,43.2635642797746,0 -79.9297371501192,43.2635765658029,0 -79.929748658927,43.263589538329,0 -79.9297640791116,43.2636025483527,0 -79.9297815432614,43.263610573656,0 -79.929799043738,43.2636164553068,0 -79.9298174109292,43.2636287779336,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9288457974613,43.2643934804198,0 -79.9291173082686,43.2644388052987,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9287235919352,43.2643730796315,0 -79.9288457974613,43.2643934804198,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9287235919352,43.2643730796315,0 -79.9286653582686,43.2645281224492,0 -79.9286524625026,43.2646205110578,0 -79.9286515245416,43.2646585357938,0 -79.9286654575083,43.2646974021752,0 -79.9287431552331,43.2648111346072,0 -79.9288597394083,43.2649862605542,0 -79.9289496823318,43.2650818363333,0 -79.9290208304088,43.2651503348951,0 -79.9291043288519,43.2652142540599,0 -79.9291790075047,43.2652592007985,0 -79.9292673327746,43.2653068055229,0 -79.9293077147511,43.2653224769075,0 -79.9293480979805,43.2653381482895,0 -79.9294586407372,43.2653757010195,0 -79.9295568334177,43.2654178330474,0 -79.9296265426288,43.2654609897,0 -79.9296740359223,43.265514198234,0 -79.9296979073342,43.2655566440559,0 -79.9297068723395,43.2655937214332,0 -79.9296948068855,43.2656345082033,0 -79.9296715451586,43.2656690058605,0 -79.9296419804803,43.2656899511776,0 -79.9296246031917,43.265698523897,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9296246031917,43.265698523897,0 -79.9296049637772,43.2657082127217,0 -79.9295580081929,43.2657228946688,0 -79.9295173177475,43.2657466028864,0 -79.9294779236145,43.265777547591,0 -79.9294551827306,43.2657998227684,0 -79.9294324430777,43.2658220970524,0 -79.929347711711,43.2659156952882,0 -79.9292999970704,43.2659910320277,0 -79.9292732752499,43.2660581324833,0 -79.929249181271,43.2661442319669,0 -79.9292376528132,43.2662529100812,0 -79.9292372420468,43.2663483213822,0 -79.9292300297457,43.266362747623,0 -79.9292101838006,43.2663790005789,0 -79.9291816129047,43.2663908838717,0 -79.9291726361923,43.2664008057118,0 -79.929166429961,43.2664200462069,0 -79.9291749055793,43.2664387082911,0 -79.929184321808,43.2664595240695,0 -79.9291944902565,43.2664770737275,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9242294109104,43.2636028458924,0 -79.9242275770137,43.2635825125216,0 -79.924073422613,43.2627105983121,0 -79.9239308335055,43.2618583901393,0 -79.9236179141435,43.2599880987068,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9249705604522,43.2641993427904,0 -79.9249589831117,43.2641977374169,0 -79.9249213232311,43.2641888065935,0 -79.9248785827091,43.2641722038288,0 -79.924833334794,43.2641498604744,0 -79.9247906278706,43.2641313517243,0 -79.9247545074715,43.2641090941399,0 -79.9247234425134,43.2640895007994,0 -79.9247183578932,43.2640839458014,0 -79.9246809138018,43.2640336436085,0 -79.9246620238256,43.2639869555878,0 -79.9246632071468,43.2639229531908,0 -79.9246454511566,43.2638061094785,0 -79.9246079591475,43.2637496530826,0 -79.9245418309484,43.2636920863983,0 -79.9244438318198,43.263650651535,0 -79.9243105367857,43.2636179801733,0 -79.9242294109104,43.2636028458924,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9243757589544,43.2642041592338,0 -79.9243542039658,43.2641497075708,0 -79.9243226437729,43.2640668595325,0 -79.924295315679,43.2639904013119,0 -79.9242791322082,43.2639048560276,0 -79.924265264999,43.2638218411986,0 -79.9242568928425,43.2637792167428,0 -79.9242485194651,43.2637365922747,0 -79.9242348861575,43.2636635287946,0 -79.9242294109104,43.2636028458924,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9381116902712,43.2563580426143,0 -79.9382598639392,43.2563642896005,0 -79.9384950140749,43.2563670358043,0 -79.9387080770629,43.2563714171294,0 -79.9389184923019,43.256376734285,0 -79.9391203731682,43.2563810111088,0 -79.9393610533149,43.2563861282049,0 -79.939436599683,43.2563921179999,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9236179141435,43.2599880987068,0 -79.9235647190465,43.2599740894296,0 -79.9235256062222,43.2599552673455,0 -79.9234890628214,43.2599326379815,0 -79.9234642222448,43.2599118575362,0 -79.923441986972,43.2598920155716,0 -79.9234288133145,43.2598683391984,0 -79.9234257998159,43.2598151928127,0 -79.9234175027572,43.2597506779382,0 -79.923396835028,43.2595988822799,0 -79.9233671046212,43.2594509210046,0 -79.9233442758713,43.2593551404994,0 -79.9233136326311,43.2592565454348,0 -79.9232698531658,43.2591390188328,0 -79.9232433579239,43.2590726811875,0 -79.9232259996593,43.2590120006854,0 -79.9232074315357,43.2589627166955,0 -79.9231836900576,43.2589163014835,0 -79.9231508500342,43.2588689757879,0 -79.9230891694965,43.2587875960581,0 -79.9230078608685,43.2586873136557,0 -79.9229291935773,43.2585927154464,0 -79.9228243285359,43.2584697482572,0 -79.9227535886248,43.258392203621,0 -79.9227024398634,43.2583288158723,0 -79.9226406875747,43.2582379443883,0 -79.9225854657698,43.2581517915542,0 -79.9225342803467,43.258083657067,0 -79.9225092938941,43.2580438924727,0 -79.9225019542712,43.2580187680788,0 -79.922507602366,43.2579935886413,0 -79.9225228618761,43.2579517575218,0 -79.92253757132,43.2579227437454,0 -79.9225774664957,43.2578755888532,0 -79.9226045406664,43.2578498458431,0 -79.9226484905016,43.2578230830786,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.93591467216,43.2563098404986,0 -79.9360317009529,43.2563128957491,0 -79.9361500416398,43.2563168815497,0 -79.9362940427187,43.2563206250168,0 -79.9363913532319,43.256320161226,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9361792584173,43.2561321071892,0 -79.93591467216,43.2563098404986,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9415703434821,43.2659229490474,0 -79.9415200056789,43.2659325258054,0 -79.9413646273493,43.2659631053841,0 -79.9411992168066,43.2659935918848,0 -79.9408931905565,43.2660518600688,0 -79.9405770989754,43.2661119899982,0 -79.940241201395,43.2661763351815,0 -79.9399170439885,43.2662385874682,0 -79.9395415510792,43.2663103840855,0 -79.9391852023426,43.2663774693393,0 -79.9388496315426,43.2664420574831,0 -79.9385103940488,43.26650587764,0 -79.9381996527098,43.2665658057151,0 -79.937839584095,43.2666350520542,0 -79.9374926118901,43.2667012412012,0 -79.9371533588609,43.2667657901538,0 -79.9368023640867,43.266832427872,0 -79.9364479896159,43.2669009897789,0 -79.9361143720861,43.2669682759102,0 -79.935760708893,43.2670343975583,0 -79.935414434096,43.2670986319859,0 -79.9350624102081,43.2671664775973,0 -79.9347037152691,43.2672332820948,0 -79.9343470338069,43.2672996152765,0 -79.9341194207961,43.2673485755521,0 -79.9340831137453,43.267359235391,0 -79.933772405347,43.2674167087828,0 -79.9334321728586,43.2674795266791,0 -79.9331110288233,43.2675408107448,0 -79.9327707169228,43.267608024662,0 -79.9324480321354,43.267661716041,0 -79.9321412784955,43.2677033342414,0 -79.9318326969704,43.2677346702382,0 -79.9315486490886,43.2677591461829,0 -79.9312527223707,43.2677744680384,0 -79.9309513065066,43.2677784947173,0 -79.930643408592,43.2677707279455,0 -79.9303115104812,43.2677583371621,0 -79.9300990322474,43.2677448627124,0 -79.9299441234065,43.267728993675,0 -79.929856861443,43.2677176680433,0 -79.9297695995289,43.2677063414451,0 -79.9295351285535,43.2676691969548,0 -79.9292633631285,43.2676226604769,0 -79.9289678162251,43.267578099585,0 -79.9288710507731,43.2675652173669,0 -79.9287418168938,43.2675346782705,0 -79.9286074134421,43.2675055763587,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.939436599683,43.2563921179999,0 -79.939502306926,43.256396573086,0 -79.9395706857565,43.2563986495777,0 -79.9396719259447,43.2564024731949,0 -79.9398199158974,43.2564038449742,0 -79.9399607036751,43.2564032264357,0 -79.9403957859758,43.2564109667366,0 -79.9408720427208,43.2564229018915,0 -79.9412322185427,43.2564294609378,0 -79.941593639923,43.2564412975892,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9073896240816,43.2451088497897,0 -79.9073947539393,43.2451622816625,0 -79.9074743572263,43.245163693946,0 -79.9074746104174,43.2452337458501,0 -79.9073983661512,43.2452330175854,0 -79.9074061774383,43.2454226309232,0 -79.9074826625875,43.2454235406752,0 -79.907487686176,43.2455585279861,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9231198031334,43.26000854733,0 -79.9231711689506,43.2600026808906,0 -79.92343182927,43.2600025943664,0 -79.9235248717091,43.2599953470247,0 -79.9235713929288,43.2599917228753,0 -79.9236179141435,43.2599880987068,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9288874765674,43.2448054274755,0 -79.9288669265254,43.2447743942688,0 -79.9288466766899,43.2447262299076,0 -79.9288404574855,43.2446799105101,0 -79.9288387442239,43.2446439138658,0 -79.9288535552791,43.2446012185584,0 -79.9288685764437,43.2445465310823,0 -79.9288813127391,43.2444883959555,0 -79.9288796907497,43.2444472594361,0 -79.9288756038162,43.2444129541397,0 -79.9288691444828,43.244380339303,0 -79.9288767144499,43.2443495694167,0 -79.9288842543887,43.2443205128249,0 -79.9288853950142,43.2442554157058,0 -79.9288745198246,43.2442073391306,0 -79.9288496729648,43.2441539918888,0 -79.9288152427766,43.2441125481304,0 -79.9287619472846,43.2440777819911,0 -79.9287224396922,43.2440585644463,0 -79.9286340237671,43.2440217557424,0 -79.9285876680042,43.2439921943503,0 -79.9285528777659,43.2439713082568,0 -79.9285086542818,43.2439537600404,0 -79.9284760575812,43.243941460553,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9264395553151,43.25034731603,0 -79.9262562105047,43.2503807499144,0 -79.9261503791435,43.2503821002955,0 -79.9260801410024,43.2503650344919,0 -79.9259721755441,43.2503054287711,0 -79.9257029012711,43.2501200923347,0 -79.9255826069127,43.2500322463946,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.907487686176,43.2455585279861,0 -79.9074563436892,43.2455553624566,0 -79.9074001597278,43.2455544223921,0 -79.9073258962373,43.2455476718132,0 -79.9072793218277,43.2455331292912,0 -79.9072315960337,43.2455213950904,0 -79.9071781298706,43.2455224952103,0 -79.9071346738229,43.2455184547714,0 -79.9070944934671,43.245519558426,0 -79.9070518317177,43.2455197315934,0 -79.9070201390491,43.2455272663658,0 -79.9069788184892,43.2455328929005,0 -79.9069318749398,43.2455235000419,0 -79.9069039637469,43.2455120946254,0 -79.9068489917071,43.2455080655881,0 -79.9068172189735,43.2455031326711,0 -79.9067875502718,43.2455067310018,0 -79.9067519141976,43.2455097473224,0 -79.9067159644486,43.2455133594396,0 -79.9066934202035,43.2455185467183,0 -79.9066798400691,43.2455246688088,0 -79.9066495056453,43.2455415200132,0 -79.906630124599,43.2455532478406,0 -79.9066127002099,43.2455654923227,0 -79.9065742331489,43.2455836767879,0 -79.9065338318077,43.2455865268262,0 -79.9065008845632,43.2455717819875,0 -79.9064645876082,43.2455715268327,0 -79.9064403646045,43.2455704380146,0 -79.9064068370889,43.2455839296266,0 -79.9063642642112,43.2455882896253,0 -79.906333916605,43.2455784014619,0 -79.9063003897103,43.2455847659082,0 -79.9062688642611,43.24559423806,0 -79.9062588972143,43.245605640728,0 -79.9062457448432,43.2456139432687,0 -79.9062259556188,43.2456180501337,0 -79.9061996401399,43.2456253416464,0 -79.9061765919929,43.2456347291523,0 -79.9061406241212,43.2456428585225,0 -79.9061084375717,43.2456525827397,0 -79.9060765876197,43.2456653168026,0 -79.9060324207025,43.2456812422477,0 -79.9059894162257,43.2456745430325,0 -79.9059518756276,43.2456556777211,0 -79.905909288393,43.2456467961499,0 -79.9058781943411,43.2456426906832,0 -79.9058303251136,43.2456477192888,0 -79.9058053514104,43.2456356501507,0 -79.9057705757378,43.245622316641,0 -79.9057390489941,43.2456029559076,0 -79.905707039512,43.2455935667426,0 -79.9056903560316,43.2455863628349,0 -79.9056674747813,43.2455863555356,0 -79.9056326861397,43.2455843451434,0 -79.9056060276808,43.2455656576706,0 -79.9055877643455,43.2455268477967,0 -79.9055497935463,43.2454904687938,0 -79.9055071262185,43.2454663262119,0 -79.9054607760408,43.2454597883831,0 -79.9054194493397,43.2454523387168,0 -79.9053790532529,43.2454443729731,0 -79.9053496307495,43.245426516227,0 -79.9053234840866,43.2453961789329,0 -79.905300678274,43.2453673395549,0 -79.9052822444221,43.2453444616382,0 -79.9052737650835,43.2453206560674,0 -79.9052518987033,43.2452957624812,0 -79.9052223947781,43.2452718664383,0 -79.9051877830933,43.2452543471817,0 -79.9051404164374,43.2452559504575,0 -79.9050882837137,43.2452546860502,0 -79.9050506487774,43.245262228229,0 -79.9050115852172,43.2452650815312,0 -79.9049680862599,43.2452606355519,0 -79.9049045495412,43.2452678459709,0 -79.904840847665,43.2452674296784,0 -79.9047834305816,43.2452646575931,0 -79.9047358151886,43.2452463878698,0 -79.9046886294798,43.2452358301785,0 -79.9046369232943,43.2452416967904,0 -79.9046089235983,43.2452514147568,0 -79.90457506146,43.2452413628036,0 -79.9045403556701,43.2452339861314,0 -79.9045076665912,43.2452379331376,0 -79.9044741351393,43.2452403592938,0 -79.9044458926939,43.2452340674188,0 -79.9044052440395,43.2452345731407,0 -79.9043864728168,43.2452121898025,0 -79.9043446410833,43.2451907381609,0 -79.9043057490967,43.2451656723037,0 -79.9042758352616,43.2451562848031,0 -79.9042472395592,43.2451472331871,0 -79.904206423292,43.2451443803181,0 -79.9041697964647,43.245151341163,0 -79.9041437353415,43.2451592145361,0 -79.9041051752681,43.2451606433224,0 -79.9040595742187,43.245155282701,0 -79.9040213546268,43.245158881228,0 -79.9039850620459,43.2451717927543,0 -79.9039631831243,43.2451799186681,0 -79.9039388737827,43.2451899761872,0 -79.90391146289,43.2452041532998,0 -79.9038778454466,43.2452148779965,0 -79.9038433147158,43.2452280368788,0 -79.9038099641886,43.2452400175536,0 -79.9037739141121,43.2452457204534,0 -79.9037488444985,43.2452531800225,0 -79.9037156579301,43.2452616486463,0 -79.9036725805514,43.2452681792196,0 -79.9036152559907,43.2452771458302,0 -79.9035793720713,43.2452714540404,0 -79.9035437443777,43.2452627400506,0 -79.903507953972,43.2452715438383,0 -79.9034772048759,43.2452778233286,0 -79.9034498694956,43.2452884694503,0 -79.9034244833136,43.2452966813991,0 -79.9033944704334,43.2452976939314,0 -79.9033513954556,43.2452928272853,0 -79.9033190252142,43.2452881280909,0 -79.9032977391289,43.245294922378,0 -79.9032634453143,43.2453039979698,0 -79.903239133992,43.2453034470024,0 -79.9032011296317,43.2452913351937,0 -79.9031514192415,43.2452781575343,0 -79.9030965026127,43.2452646138659,0 -79.9030696480116,43.2452605455892,0 -79.9030413365237,43.2452625702537,0 -79.902999681419,43.2452699435368,0 -79.9029706838565,43.2452720354416,0 -79.9029467933706,43.2452755585271,0 -79.9029111761494,43.2452761488931,0 -79.9028789822768,43.2452778220196,0 -79.9028463806675,43.2452783296329,0 -79.9028132670917,43.2452707831148,0 -79.9027798142998,43.2452701947888,0 -79.9027658347548,43.245276727695,0 -79.9027521550337,43.2452834381648,0 -79.9027381636261,43.2452920726273,0 -79.9027100946444,43.2452923202272,0 -79.902674964155,43.2452875475474,0 -79.9026365783222,43.2452793326838,0 -79.9025948310937,43.2452763964705,0 -79.9025611337401,43.245266926299,0 -79.9025240868045,43.2452621450908,0 -79.9024843579057,43.2452612290243,0 -79.902439270475,43.2452680162874,0 -79.9023859954628,43.2452860554529,0 -79.9023151450413,43.2453133168283,0 -79.9022427519221,43.2453297668401,0 -79.9021747069154,43.2453459415761,0 -79.9021267675891,43.2453550065214,0 -79.9020901830787,43.2453606884526,0 -79.9020475003951,43.2453664216929,0 -79.9020040773712,43.2453746258762,0 -79.9019633371673,43.2453815933522,0 -79.9019310661693,43.2453861154268,0 -79.9018940133856,43.245392149382,0 -79.9018539652461,43.2454048855057,0 -79.9018175779543,43.2454152876527,0 -79.901786566386,43.2454241646961,0 -79.9017605793446,43.24543556984,0 -79.9017375288857,43.2454443666273,0 -79.9017090439691,43.2454515804477,0 -79.9016824621241,43.2454546812244,0 -79.9016554750117,43.2454592908761,0 -79.9016242925414,43.245460881514,0 -79.9015975608917,43.2454547700286,0 -79.9015586601518,43.2454492323289,0 -79.9015315902549,43.2454430257329,0 -79.901499574306,43.2454361620191,0 -79.901453725381,43.2454347257842,0 -79.9014128171307,43.2454271868425,0 -79.9013881836199,43.2454138566627,0 -79.9013548955206,43.2454174656445,0 -79.9013265741087,43.2454233248475,0 -79.9012942992133,43.245421069844,0 -79.9012447613866,43.2454206489284,0 -79.901221796575,43.2454134389595,0 -79.9011908745824,43.2454208228388,0 -79.901182733525,43.2454126855169,0 -79.9011600164328,43.2454099225851,0 -79.9011220442365,43.245417967189,0 -79.9011068769749,43.2454267657446,0 -79.9011052955682,43.2454263444445,0 -79.9010907912085,43.2454346514122,0 -79.9010398166845,43.2454482322628,0 -79.9010119955346,43.2454374998186,0 -79.9009775501015,43.2454184690148,0 -79.9009296883332,43.2454020385826,0 -79.9008927161164,43.2453853633897,0 -79.9008711810239,43.245388383706,0 -79.9008677422132,43.2454231678427,0 -79.9008534838419,43.2454578669209,0 -79.9008373189448,43.245489125929,0 -79.90081703347,43.2455223191456,0 -79.9008117529306,43.2455556754613,0 -79.900813183165,43.2455750526936,0 -79.9008327911517,43.2455824141809,0 -79.9008445321244,43.245589553293,0 -79.9008490460055,43.2456148617703,0 -79.9008340524965,43.2456476267967,0 -79.9008214768949,43.2456840934343,0 -79.9008176166581,43.2457185412483,0 -79.900812676291,43.2457540772433,0 -79.9008013559774,43.2457908783055,0 -79.9007869363281,43.2458239901135,0 -79.9007728652785,43.2458552512228,0 -79.9007657357865,43.2458799768683,0 -79.9007619557517,43.2458944820668,0 -79.9007760975261,43.245894359538,0 -79.9007858489137,43.2458928855478,0 -79.9007943527832,43.2458948213155,0 -79.900791858945,43.2459044511794,0 -79.9007872817178,43.2459149281649,0 -79.900776456944,43.2459445140992,0 -79.9007630453002,43.2459748603732,0 -79.9007669945059,43.2459965669892,0 -79.9007690856625,43.2460078914572,0 -79.9007647289663,43.2460341196021,0 -79.9007668255276,43.2460599388227,0 -79.9007694151376,43.2460856709345,0 -79.9007709260597,43.2461075477168,0 -79.9007726876909,43.2461295934934,0 -79.9007714451819,43.2461474511764,0 -79.9007643964623,43.2461648748682,0 -79.90074428297,43.2461947227116,0 -79.9007172044656,43.246253844194,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9079216277572,43.2460827297933,0 -79.9079311137008,43.2459913075214,0 -79.9079504811444,43.2458126547866,0 -79.9079225493758,43.245791696443,0 -79.907525864759,43.2455883790962,0 -79.907487686176,43.2455585279861,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9188568582683,43.2456372719274,0 -79.9187541810066,43.2456246206199,0 -79.9186807913695,43.245618320596,0 -79.9186297847513,43.2456112974555,0 -79.9184953381526,43.2455968814202,0 -79.9182122118432,43.2455702176437,0 -79.9177488276137,43.2455315663335,0 -79.9174562678724,43.2455082376814,0 -79.91687118071,43.2454598639623,0 -79.9166793564742,43.2454392007423,0 -79.9165178153297,43.2454291037089,0 -79.9164356148252,43.2454386056032,0 -79.91635107065,43.2454480843345,0 -79.9162620225758,43.245447240678,0 -79.9161707827161,43.2454378092064,0 -79.9160588764351,43.2454041953648,0 -79.9159682746442,43.2453587891917,0 -79.9158824818445,43.2453065742232,0 -79.915320855175,43.2449928431096,0 -79.9151980552629,43.2449128639795,0 -79.915140535718,43.2448523505099,0 -79.9151109538151,43.2448023816458,0 -79.9150908060648,43.2447490760039,0 -79.9150777184216,43.2446941237468,0 -79.9150599143643,43.2446408403282,0 -79.9150394930644,43.244602952463,0 -79.9150164253343,43.244582173449,0 -79.9149794783024,43.2445509822209,0 -79.9149306940142,43.2445265320939,0 -79.9148631632307,43.2445019041038,0 -79.9147905194876,43.244501214926,0 -79.9147317221277,43.2445126512069,0 -79.9146774295176,43.2445344098547,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9316646516323,43.2454214875758,0 -79.9316315571099,43.245402211174,0 -79.93158180295,43.2453966066232,0 -79.9315332279414,43.2453966202325,0 -79.9314910190306,43.2453980953064,0 -79.9313962799925,43.2454065543509,0 -79.9312867196517,43.2454218840238,0 -79.931156346928,43.2454387137826,0 -79.9310618731499,43.2454510866287,0 -79.9310034922278,43.2454636238251,0 -79.9309719917084,43.2454740755225,0 -79.9309434155569,43.2454635296927,0 -79.9309026728876,43.245454271258,0 -79.9308600126643,43.2454449957862,0 -79.9307944705869,43.2454284972291,0 -79.9306728113678,43.2453983543266,0 -79.9306277552718,43.2453869051702,0 -79.9305932574093,43.245375554708,0 -79.9305511222213,43.2453696472492,0 -79.9305000327297,43.2453581416325,0 -79.9304520956411,43.2453389458222,0 -79.930394993287,43.2453262808713,0 -79.9303123848286,43.2453056586227,0 -79.9301777885414,43.2452698329657,0 -79.9300542786849,43.2452292699775,0 -79.9299446485743,43.2451991172571,0 -79.9298618311426,43.2451810221214,0 -79.9297797482262,43.2451601639818,0 -79.9297206438455,43.2451421933593,0 -79.929652896273,43.2451295662018,0 -79.9296085816309,43.2451171582884,0 -79.9295480438712,43.2450943170796,0 -79.9295060429312,43.2450836443551,0 -79.9294639820123,43.2450763973058,0 -79.929438295486,43.2450710161713,0 -79.9293973541027,43.2450617382317,0 -79.9293591850139,43.2450515695576,0 -79.9293268151913,43.2450386511199,0 -79.9292976412769,43.2450257625886,0 -79.9292597410271,43.2450001778135,0 -79.9292127556617,43.2449824509392,0 -79.9290364665804,43.2449396845833,0 -79.9289828452423,43.2449359120502,0 -79.9289355420372,43.2449364029033,0 -79.9288945544602,43.2449411589278,0 -79.9288438576536,43.2449528322994,0 -79.9287666180948,43.2449838799073,0 -79.9286177345366,43.2450549059166,0 -79.9284478876622,43.2451474112316,0 -79.928292045523,43.2452219257429,0 -79.9281452014366,43.2453004926873,0 -79.9280767030464,43.2453306906604,0 -79.9280176068109,43.2453592649322,0 -79.9279750652045,43.2453794264462,0 -79.9279538544778,43.2453860810583,0 -79.9279326449781,43.245392735678,0 -79.9278926260224,43.2454026411492,0 -79.9278243677722,43.2454191344135,0 -79.9277254939641,43.2454439085215,0 -79.927633801359,43.2454601828888,0 -79.927532705207,43.2454780816908,0 -79.9273846202205,43.2455023940888,0 -79.9273328551563,43.2455139018919,0 -79.9272974644901,43.2455272768088,0 -79.9272502051017,43.2455491082848,0 -79.9272053194393,43.2455692475277,0 -79.9271723325285,43.2455792177981,0 -79.9271229699313,43.2455873217875,0 -79.9269231806651,43.2456197155898,0 -79.9268338601194,43.2456342979918,0 -79.926737510962,43.2456488143749,0 -79.9266423954858,43.24566153593,0 -79.9265565757111,43.2456714775766,0 -79.9264913046119,43.2456760039456,0 -79.9264293758673,43.2456721522488,0 -79.9263827838762,43.2456684444712,0 -79.9263363676379,43.2456690371217,0 -79.9262338238462,43.2456707840368,0 -79.926099233038,43.2456925110568,0 -79.9260146353552,43.2457051696532,0 -79.9259418036135,43.2457150202771,0 -79.92586197784,43.2457228376709,0 -79.9257541206761,43.2457252510261,0 -79.925629920419,43.2457240845244,0 -79.9255290641561,43.2457282779005,0 -79.9254234602996,43.2457358528379,0 -79.9253167208447,43.245740197863,0 -79.9252273215206,43.2457356200764,0 -79.9251353338357,43.2457328872527,0 -79.9250478356764,43.2457292609684,0 -79.9249571836869,43.2457280443225,0 -79.924854043973,43.2457287884903,0 -79.9247486823453,43.2457226582753,0 -79.9246728799475,43.2457168598815,0 -79.9245744606176,43.2457164019364,0 -79.9244116540005,43.245695502233,0 -79.9243226656284,43.2456912382624,0 -79.9242438785422,43.2456885298098,0 -79.9241371922028,43.245685657945,0 -79.9239806794872,43.2456813816933,0 -79.9238471367455,43.2456764848091,0 -79.9237089964886,43.2456683316667,0 -79.9235871702609,43.2456654726096,0 -79.9234982109437,43.2456594946951,0 -79.923388101894,43.245656745699,0 -79.9232397648666,43.2456538519525,0 -79.923123543977,43.2456480853546,0 -79.923025936815,43.2456378223085,0 -79.9229519251967,43.2456305835908,0 -79.922897746821,43.2456221304713,0 -79.9228498149374,43.2456122701999,0 -79.9227914418225,43.2455997263577,0 -79.9227026034387,43.2455868964609,0 -79.9226253626804,43.2455810291357,0 -79.922569436486,43.2455741847288,0 -79.9225165460349,43.2455652771218,0 -79.9224687175165,43.2455589924916,0 -79.9224078800517,43.245553279542,0 -79.9223681029825,43.245549477651,0 -79.9223140838935,43.2455558230187,0 -79.9222711246852,43.2455648334768,0 -79.92220466566,43.2455642072796,0 -79.9221191843506,43.2455549914933,0 -79.9220363326964,43.2455415961764,0 -79.92195225339,43.2455253851959,0 -79.9218809952724,43.2455069592056,0 -79.9218327086479,43.245490618154,0 -79.9217786553907,43.2454751574017,0 -79.9217328761086,43.2454616430757,0 -79.9216830603011,43.2454539265612,0 -79.9215965056089,43.2454445435853,0 -79.9215215785894,43.2454404109043,0 -79.9214043484029,43.2454427317828,0 -79.9213269568186,43.2454454291373,0 -79.9212963707053,43.2454519941008,0 -79.9212775029173,43.2454586695687,0 -79.9212562914586,43.2454653229306,0 -79.9212093033554,43.2454717331843,0 -79.9211529103366,43.2454797682897,0 -79.9210377213533,43.2454992420015,0 -79.9208590199198,43.2455318241213,0 -79.9207697586488,43.2455429751929,0 -79.9206947093556,43.245545694219,0 -79.920612509299,43.24555519822,0 -79.9203915053209,43.2455942338144,0 -79.9200222906875,43.2456644231558,0 -79.919907884234,43.2456934569989,0 -79.9198513771897,43.2457083419864,0 -79.919743108516,43.2457227381143,0 -79.9196835883617,43.2457273149093,0 -79.9196085515334,43.2457341916649,0 -79.9195311280253,43.245738600177,0 -79.9194628585338,43.245740181222,0 -79.9193952120806,43.2457373162373,0 -79.9193133447241,43.2457279758156,0 -79.9191286697124,43.2457005299451,0 -79.9190469690613,43.2456817675925,0 -79.9189652684615,43.2456630051821,0 -79.9188952698965,43.2456452096536,0 -79.9188568582683,43.2456372719274,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8948896835355,43.2462826315315,0 -79.8948978595058,43.2462364719219,0 -79.8949532112638,43.2462423824277,0 -79.8950173659719,43.2460521524851,0 -79.8952455657656,43.2456754532186,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8952455657656,43.2456754532186,0 -79.895283336604,43.245613102798,0 -79.8953499828251,43.2454528559056,0 -79.8953771996731,43.2454586664796,0 -79.8954216766183,43.2453492462065,0 -79.8953974755444,43.2453445741329,0 -79.8954433694062,43.2452407152651,0 -79.8954690476111,43.2452476212261,0 -79.8955133839275,43.2451459660209,0 -79.8954907014239,43.2451413086302,0 -79.8955350977455,43.2450363258945,0 -79.8955607758759,43.2450432318344,0 -79.8956036146634,43.2449404527643,0 -79.8955577192618,43.2449290051062,0 -79.8955867467657,43.2448659470359,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.93635579634,43.256118336706,0 -79.9363913532319,43.256320161226,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9316838473449,43.2523841353588,0 -79.9316655046026,43.2522664288777,0 -79.9316430224508,43.2521109670858,0 -79.9315907951689,43.2520096097977,0 -79.9314978024148,43.2518377015797,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.89433287187,43.2728937391315,0 -79.8943499865623,43.2728548626236,0 -79.8943651799541,43.2728203473564,0 -79.8943696900391,43.2728077665663,0 -79.8943393514155,43.2727876272525,0 -79.894319654088,43.2727667281636,0 -79.8943082061052,43.272746771455,0 -79.8942992216073,43.2727212296223,0 -79.8942968408716,43.2726897113726,0 -79.8943014575839,43.2726630061691,0 -79.8943106094791,43.2726467000464,0 -79.8943275520421,43.2726239976604,0 -79.8943485658109,43.2726047860733,0 -79.8943712876178,43.2725890424394,0 -79.8943963401023,43.2725750475034,0 -79.8944272096693,43.272565854191,0 -79.8944699020643,43.2725559116092,0 -79.8946625518974,43.2725141986847,0 -79.8949366765068,43.2724564458236,0 -79.895210801842,43.2723986923111,0 -79.8955990514091,43.2723152912187,0 -79.8957045686736,43.2722921489941,0 -79.8957840562553,43.2722717755086,0 -79.8958695013236,43.27224844025,0 -79.8959585834145,43.2722199624142,0 -79.896053039371,43.2721880840292,0 -79.8961458104572,43.2721514448041,0 -79.8962219815504,43.2721185271739,0 -79.8962958308456,43.2720834304967,0 -79.8963762355314,43.2720449455777,0 -79.8964412920001,43.2720063116166,0 -79.8965170752301,43.2719621730693,0 -79.8965803843713,43.2719222291161,0 -79.8966348060264,43.2718839246661,0 -79.8966946416813,43.2718400634755,0 -79.8967509128669,43.2717974618264,0 -79.8968025159263,43.2717517958959,0 -79.8968709044411,43.2716920538258,0 -79.8969250082444,43.2716386455265,0 -79.8969768136127,43.2715817635886,0 -79.8970310418718,43.2715214535439,0 -79.8970606464019,43.2714842035229,0 -79.8970902574515,43.2714465222385,0 -79.89711994759,43.2714045276248,0 -79.8971569857495,43.2713479345278,0 -79.8971946763171,43.2712878962613,0 -79.8972178577012,43.2712467015014,0 -79.89724300303,43.2711947400112,0 -79.8973581139504,43.2709343970116,0 -79.897489289314,43.2706345166348,0 -79.8976150339458,43.2703410553261,0 -79.8977541835572,43.2700244246462,0 -79.897891522324,43.2697099338223,0 -79.8980331864663,43.2693846988237,0 -79.8980411954907,43.2693662238876,0 -79.8980556039407,43.2693529882276,0 -79.8980687698338,43.2693431920432,0 -79.8979101257406,43.2693006765743,0 -79.8979882317082,43.2691275591539,0 -79.8981094805083,43.2688538999586,0 -79.8982665443885,43.2684930027297,0 -79.8983798830135,43.2682322101806,0 -79.8985165230906,43.267923320715,0 -79.8986674462036,43.2675753077972,0 -79.8987617505086,43.2673876764261,0 -79.8988412261929,43.2672037849801,0 -79.8989877880297,43.2668682414489,0 -79.8990937267913,43.266624634132,0 -79.8991811620707,43.26642485574,0 -79.8992918901178,43.2661774124441,0 -79.8993645902712,43.2660089873667,0 -79.8994964203643,43.2657043644045,0 -79.8996121398668,43.2654418672298,0 -79.8997261268764,43.2651771966653,0 -79.8998874365738,43.2648090044834,0 -79.9000267399246,43.2644824491541,0 -79.9000968413193,43.264326941734,0 -79.9001658410495,43.2641671095838,0 -79.9003167528713,43.2638186619164,0 -79.9003205263828,43.2638057550267,0 -79.9003207360349,43.26379410873,0 -79.9003163013828,43.2637781027912,0 -79.9003725083048,43.2636401501733,0 -79.9003910079157,43.2636291110306,0 -79.9004048399345,43.2636150059794,0 -79.900423331777,43.2635716088316,0 -79.900556929129,43.2632665701782,0 -79.9006111461579,43.2631406788356,0 -79.900619852302,43.2631161710318,0 -79.9006231610705,43.2630963558583,0 -79.9006181984033,43.2630768934019,0 -79.9007863343087,43.2631160449069,0 -79.9011673439884,43.2632016798806,0 -79.901548806845,43.2632875250422,0 -79.9017906157441,43.2633409803736,0 -79.902177863759,43.263408119759,0 -79.9022298218477,43.2634077558065,0 -79.9022605460815,43.2634063254057,0 -79.9022912780793,43.2634044628518,0 -79.9023190971606,43.2634004148396,0 -79.9023510945826,43.2633938190045,0 -79.9023860824306,43.263385094362,0 -79.902433566563,43.2633708815745,0 -79.9025142437435,43.2633492208205,0 -79.9025736107793,43.2633308070014,0 -79.9027347854412,43.2632646173049,0 -79.9029821911755,43.2631634441752,0 -79.9033467487755,43.2630146421463,0 -79.9038671738458,43.262799164561,0 -79.9039766235236,43.2627531861143,0 -79.9045409622658,43.2625247517412,0 -79.9047949237716,43.2624197546841,0 -79.9050666921968,43.2623093194748,0 -79.9052675624316,43.2622348770971,0 -79.9053034909848,43.2622395350559,0 -79.9053387973087,43.2622459132251,0 -79.9059654801251,43.2619969274908,0 -79.9059188785171,43.2619619672076,0 -79.9061175407752,43.261878873126,0 -79.9063952913644,43.2617637456422,0 -79.9069156269885,43.2615521360277,0 -79.9071976288844,43.2614376343112,0 -79.9072915730432,43.2613963886136,0 -79.9073855170761,43.2613551428372,0 -79.90755342762,43.2615720361693,0 -79.9075713391183,43.2615937786013,0 -79.9075882478743,43.2616055893122,0 -79.9076063136486,43.2616187050282,0 -79.9076227596168,43.261623392297,0 -79.9076392043556,43.2616280795517,0 -79.9076733304405,43.261634445729,0 -79.9079496022454,43.2617009370273,0 -79.9081911494311,43.2617614872514,0 -79.9082916949922,43.2617840192202,0 -79.9083605144438,43.2617980505468,0 -79.9084140795599,43.2618067586227,0 -79.9084894771211,43.2618161072387,0 -79.9085621196404,43.2618227713654,0 -79.9086916982082,43.2618309799998,0 -79.9088626466413,43.2618413471422,0 -79.9090335951375,43.2618517140297,0 -79.9092206591636,43.2618632068418,0 -79.9097089406342,43.2618924537649,0 -79.9100396692654,43.261912911744,0 -79.9102556022671,43.2619252758643,0 -79.9106819633816,43.2619509094427,0 -79.9110741124301,43.2619749208717,0 -79.9112787424304,43.2619872231768,0 -79.9114839625813,43.2619995316325,0 -79.9117587701756,43.2620159523671,0 -79.9121114058123,43.2620378590155,0 -79.9122924718596,43.2620473465682,0 -79.9125165580699,43.2620611265356,0 -79.9127990308392,43.2620780489673,0 -79.9131098066809,43.2620969658303,0 -79.9133527641519,43.2621117861191,0 -79.9136128248517,43.2621276309787,0 -79.913922427519,43.2621461031717,0 -79.9142473454682,43.262166446085,0 -79.9146023510148,43.26218793533,0 -79.9149473306589,43.2622088979455,0 -79.9152504650911,43.2622260103253,0 -79.9155535678407,43.2622448477784,0 -79.9157771505893,43.2622556991016,0 -79.9159586953781,43.2622586903879,0 -79.9160336104572,43.2622479699649,0 -79.9162048660732,43.2622432427782,0 -79.9164421916392,43.2622366010639,0 -79.9167429241298,43.2622311942034,0 -79.9169201827551,43.2622309683568,0 -79.9171179730369,43.2621998204057,0 -79.9171676380112,43.2621920351974,0 -79.9172243083819,43.2621811412705,0 -79.9172688849349,43.2621663229991,0 -79.91744204942,43.2622009827367,0 -79.917554873815,43.2622084005413,0 -79.9177042871274,43.26221044925,0 -79.9180658759296,43.2622030754419,0 -79.9186117747814,43.2621898225939,0 -79.918655269002,43.2621870587807,0 -79.9186693370974,43.262177666738,0 -79.9186783616018,43.2621587010715,0 -79.918667825858,43.2618703073425,0 -79.9186550250595,43.2616117369557,0 -79.9186429772839,43.2613106279466,0 -79.9186307610158,43.2610190432712,0 -79.9186340182264,43.2609822435398,0 -79.9186310568906,43.2609041089309,0 -79.9186247484484,43.2608678535864,0 -79.9186190761894,43.2607465127905,0 -79.9186163989745,43.2607014015546,0 -79.9186239560225,43.2606671826648,0 -79.9186367013979,43.2606342824709,0 -79.9186582025455,43.2605976552146,0 -79.9186831225798,43.2605642352896,0 -79.9187256752816,43.2605163766202,0 -79.9187725152779,43.260471734377,0 -79.9188263615792,43.2604239824259,0 -79.9188961596518,43.2603586007811,0 -79.9189455486358,43.2603171566722,0 -79.9189949387686,43.2602757134529,0 -79.9191480318759,43.2603641561663,0 -79.9192603803885,43.2602509163319,0 -79.9192920254978,43.260230259873,0 -79.9193306532076,43.260207764008,0 -79.9193700258108,43.2601922609201,0 -79.9194076053252,43.2601799158935,0 -79.9194433693063,43.2601719983636,0 -79.9194860485066,43.2601660515174,0 -79.9195356441605,43.2601620753588,0 -79.9195991276716,43.2601588642818,0 -79.9196756430031,43.2601557771561,0 -79.9201564925093,43.2601349176445,0 -79.9202378819348,43.2601509262467,0 -79.9206203873798,43.2601392962343,0 -79.9210419845354,43.2601280337025,0 -79.9214627467359,43.2601148563739,0 -79.9222051021813,43.2600951832346,0 -79.9222287695703,43.2600833419103,0 -79.9222612148703,43.2600665020055,0 -79.9223032044827,43.2600503868414,0 -79.9223450484673,43.2600425265894,0 -79.9226414711941,43.2600345234028,0 -79.9226814102782,43.2600361701303,0 -79.9227169598333,43.2600403147933,0 -79.9227489124155,43.2600514104217,0 -79.9227791044584,43.2600637600069,0 -79.9228065120154,43.2600862441294,0 -79.9229684967251,43.2600649086946,0 -79.9230441757019,43.2600599060701,0 -79.9230791030352,43.260050075056,0 -79.9231029057726,43.2600306142483,0 -79.9231198031334,43.26000854733,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8940460691831,43.2729305944402,0 -79.8940164484876,43.2729106222641,0 -79.893995861982,43.272881531182,0 -79.8939709956758,43.2728593106072,0 -79.893945038321,43.272830923962,0 -79.893921503188,43.2728016827907,0 -79.893899313929,43.272764540526,0 -79.8938819532043,43.2727265661081,0 -79.8938514014541,43.2726667703411,0 -79.8938238241846,43.2726299910632,0 -79.8937961549546,43.2725982903589,0 -79.893770113763,43.2725726375458,0 -79.893752079135,43.272560715774,0 -79.8937049695239,43.2725227948679,0 -79.8936922124268,43.2725074312653,0 -79.8936748197997,43.2724840853076,0 -79.8936525362418,43.2724429116419,0 -79.8936441350446,43.2724269553462,0 -79.8936284234351,43.2724068006479,0 -79.8935786954224,43.2723694882818,0 -79.8935273152422,43.2723273983019,0 -79.8934820986281,43.272282208228,0 -79.8934569721982,43.2722527399572,0 -79.8934310878287,43.2722185162453,0 -79.8934078368898,43.2721827305024,0 -79.8933918860611,43.2721517787943,0 -79.893380622499,43.2721259519043,0 -79.8933652446922,43.2720873851801,0 -79.893357131253,43.2720555557129,0 -79.8933478523244,43.2720160953126,0 -79.8933397354104,43.27196045326,0 -79.8933227077739,43.2718450346825,0 -79.8933091301809,43.2717345371559,0 -79.893300135995,43.2715800174718,0 -79.8932969551488,43.2714768070731,0 -79.8932948348346,43.2713281978505,0 -79.8932958183175,43.2710989567263,0 -79.8932871562799,43.2710734728557,0 -79.8932697665541,43.2709780525751,0 -79.8932663254464,43.270928171845,0 -79.8932613163219,43.2707969935939,0 -79.89326929387,43.2707164250591,0 -79.8932844112967,43.2706254470031,0 -79.8933104422733,43.2704358314477,0 -79.8933152029428,43.2703888863186,0 -79.8933182666541,43.270339703345,0 -79.8933206493446,43.2703041655939,0 -79.8933314581173,43.270259184347,0 -79.8933499704009,43.2701726846732,0 -79.8933544353593,43.2701181179214,0 -79.8933542937186,43.2700389538657,0 -79.8933529246822,43.269985703862,0 -79.8933615657992,43.2699403837759,0 -79.8933786871523,43.2698827635663,0 -79.8934062442128,43.269776666518,0 -79.8934077324021,43.2697458105827,0 -79.8934107597441,43.2697115505068,0 -79.8934110942227,43.2696930898922,0 -79.8934029917822,43.2696754264964,0 -79.8934034058985,43.2696525706258,0 -79.8934112455839,43.2696183571084,0 -79.8934141614241,43.2695902505699,0 -79.8934171875373,43.2695559895806,0 -79.8934189009024,43.269527871408,0 -79.8934170521904,43.2694970804367,0 -79.8934203184306,43.2694496336906,0 -79.8934296313012,43.2694004877532,0 -79.8934403059023,43.2693425620352,0 -79.8934551724441,43.2692824680517,0 -79.8934956073112,43.269137124013,0 -79.893512571776,43.2690880755,0 -79.8935245823096,43.2690246906228,0 -79.893540936942,43.2689613477672,0 -79.8935600688707,43.2689126371735,0 -79.8935892660145,43.2688598962493,0 -79.8936146712977,43.2688245811845,0 -79.8936503569995,43.268773490512,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8920107527656,43.2668224126724,0 -79.8918875397258,43.2668212190359,0 -79.8918430756952,43.2668191206091,0 -79.8918009538011,43.266813709567,0 -79.8917611904238,43.2668041513479,0 -79.8917180638876,43.2667912252368,0 -79.8916625396785,43.266769840749,0 -79.8915855203439,43.2667382420602,0 -79.8915221000935,43.2667117771488,0 -79.8914609173505,43.2666878362562,0 -79.8913804455259,43.2666578716133,0 -79.89053592221,43.2663511599836,0 -79.8905330583604,43.2663501812509,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9334414584203,43.2490403238698,0 -79.933249944734,43.2490706321511,0 -79.9332390710457,43.2489389456343,0 -79.9332197380686,43.2489146951358,0 -79.9331738412705,43.24890303384,0 -79.9331364727669,43.2489058954473,0 -79.9330965721842,43.2489279888597,0 -79.9330473883124,43.248978879718,0 -79.932962555616,43.2490599275792,0 -79.9329114008223,43.2490979630354,0 -79.9326095340357,43.2492877089539,0 -79.9324611036084,43.2493649537073,0 -79.9323812745364,43.2494107444008,0 -79.9322020029807,43.2494941194278,0 -79.932111143461,43.249543017098,0 -79.9319691279887,43.2496299488141,0 -79.9318960228113,43.249667778852,0 -79.9317970004781,43.2496812966203,0 -79.931687563732,43.2496626228478,0 -79.9315410104869,43.2496323690344,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9329816667645,43.2585537009681,0 -79.9340868773485,43.2582014207729,0 -79.9344854193142,43.257551310186,0 -79.9353579936296,43.2573126141402,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9317694479623,43.2586135458666,0 -79.9329816667645,43.2585537009681,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8934556717854,43.2763630084546,0 -79.8934506100586,43.2762967304155,0 -79.8934312305265,43.2760473023733,0 -79.8934087203848,43.2757787931006,0 -79.8933964057291,43.2756143345958,0 -79.8933977564604,43.2755205562584,0 -79.8934054354307,43.2754564947352,0 -79.893410462348,43.2753949477363,0 -79.8934077803398,43.2753511056401,0 -79.8934024462864,43.2753097789694,0 -79.8933893941,43.2752626615348,0 -79.8933730398347,43.2752059880355,0 -79.8933633405272,43.2751417583705,0 -79.8933503438043,43.2749717671505,0 -79.8933421431776,43.2748727854053,0 -79.8933339425742,43.2747738036582,0 -79.8933324434813,43.2746886979332,0 -79.8933363036381,43.2746195190875,0 -79.8933447258524,43.2745624504819,0 -79.8933604805008,43.2745083090637,0 -79.8933660135915,43.2744667696681,0 -79.8933676531345,43.274424239919,0 -79.8933658916097,43.274377549576,0 -79.893362683884,43.2743387836541,0 -79.893357173886,43.274283166847,0 -79.8933455843731,43.274203360815,0 -79.8933016597905,43.2739895729192,0 -79.8932558083458,43.2737862440533,0 -79.8932498842358,43.2737534839906,0 -79.893248595702,43.2737287062974,0 -79.8932555611538,43.2737040084724,0 -79.893270746072,43.2736812946432,0 -79.893293317528,43.2736586531844,0 -79.8933395453799,43.2736254450522,0 -79.8936938017585,43.27340312615,0 -79.8937463277735,43.2733699787699,0 -79.8937988537315,43.2733368313649,0 -79.8938716906181,43.2732978482109,0 -79.8939149772935,43.2732749954521,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8939149772935,43.2732749954521,0 -79.8939484669036,43.2732573147016,0 -79.8940616700162,43.2731968136868,0 -79.8941200988118,43.2731560954499,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9284760575812,43.243941460553,0 -79.9280419407316,43.2438380182107,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9363913532319,43.256320161226,0 -79.9364814880007,43.2563228488729,0 -79.9366854788029,43.2563303174273,0 -79.936791342473,43.2563313015049,0 -79.9378675103135,43.2563477487702,0 -79.9381116902712,43.2563580426143,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9061517677271,43.2651301850157,0 -79.9061626723138,43.2651379647946,0 -79.9061791427524,43.2651466991568,0 -79.9062044270813,43.2651548028404,0 -79.9062443010603,43.2651673349099,0 -79.9062783353146,43.2651783811992,0 -79.9063278734332,43.2651974385144,0 -79.9063651881302,43.2652163780343,0 -79.9063979750213,43.2652333688839,0 -79.9064240054967,43.2652452921877,0 -79.9064489698297,43.2652530352763,0 -79.9064785570353,43.265257487264,0 -79.9065126924747,43.2652628174498,0 -79.9065364861869,43.2652722169742,0 -79.9065635679602,43.2652891532353,0 -79.906589389573,43.2653127480284,0 -79.9066048992781,43.2653387466103,0 -79.9066112665038,43.2653654907171,0 -79.9066085073766,43.2653921475816,0 -79.9066091855391,43.2654180043817,0 -79.9066167980274,43.2654389236299,0 -79.9066346192282,43.2654632757569,0 -79.906660426019,43.2654877042148,0 -79.9066885741107,43.2655088197541,0 -79.9067179823886,43.2655232767471,0 -79.9067509473596,43.2655302633201,0 -79.9067907732918,43.2655364807357,0 -79.9068420668871,43.2655394724457,0 -79.9069013908277,43.2655400394081,0 -79.9069481809136,43.265539652739,0 -79.907000645153,43.2655409879188,0 -79.9070530646454,43.2655448241163,0 -79.9071236784805,43.2655521694279,0 -79.9071646738477,43.2655567311413,0 -79.9072250652702,43.2655614772505,0 -79.9072774997099,43.2655644796648,0 -79.9073277706295,43.2655607908021,0 -79.9073724580988,43.2655503770953,0 -79.9074241394557,43.2655316919473,0 -79.907467775556,43.2655162652215,0 -79.9075114551336,43.2654983374249,0 -79.9075539503756,43.2654829006697,0 -79.9076054676218,43.2654733859262,0 -79.9076476795628,43.2654737890695,0 -79.9076873999526,43.2654858428273,0 -79.9077224975397,43.2655011877177,0 -79.9077857746955,43.265535979621,0 -79.9078919563147,43.2655961976489,0 -79.9079528912012,43.2656343032879,0 -79.9080171156498,43.2656799456082,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9338192536845,43.2562715793595,0 -79.9343011539827,43.2562769572009,0 -79.9348729037849,43.2562941057996,0 -79.9351024629574,43.2562965556878,0 -79.9353431338914,43.256302161999,0 -79.9355931913184,43.256297092868,0 -79.93591467216,43.2563098404986,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9330315129256,43.2562635756962,0 -79.9332081205249,43.2562652112709,0 -79.9337174534733,43.2562704422149,0 -79.9338192536845,43.2562715793595,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9344213956483,43.2438688674396,0 -79.934551567826,43.2437843597556,0 -79.9348513025717,43.2436025099921,0 -79.9353516674232,43.2433153145281,0 -79.9356776310329,43.2431241771256,0 -79.935835035117,43.2430353644507,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9081551836588,43.2460872628072,0 -79.9081683583091,43.2460861864506,0 -79.9082432201945,43.2460691997682,0 -79.9083055805053,43.2460551895016,0 -79.9083320948457,43.2460506917289,0 -79.9083497523289,43.2460492484258,0 -79.908373964554,43.2460510913221,0 -79.9084003225341,43.2460561765365,0 -79.9084376130809,43.2460661997434,0 -79.9085187477669,43.2460895305028,0 -79.9085977642763,43.2461080082255,0 -79.9086548136751,43.2461196309115,0 -79.9087008832352,43.2461246853132,0 -79.9087347337213,43.2461262788141,0 -79.9087985685805,43.246126887806,0 -79.9088727821507,43.2461301350642,0 -79.9089499846082,43.2461323149241,0 -79.9090221046418,43.246135052266,0 -79.9091473324295,43.2461514868891,0 -79.9091964541813,43.2461540002867,0 -79.9092383252039,43.2461543995761,0 -79.9093040823701,43.2461539343591,0 -79.9094127600533,43.2461486205513,0 -79.9095062218839,43.2461441142651,0 -79.9095674520011,43.2461446979951,0 -79.9096798291563,43.2461511666008,0 -79.9097262555516,43.2461538314689,0 -79.9097834804203,43.246159774263,0 -79.909903493255,43.2461764762157,0 -79.9100586119957,43.2461973224115,0 -79.9101111061797,43.2462006797664,0 -79.9102109233728,43.246205123701,0 -79.910397603792,43.2462097593034,0 -79.9104879173859,43.2462112553067,0 -79.9105409755696,43.2462102695154,0 -79.910600041091,43.2462075598044,0 -79.910651391938,43.2462020166817,0 -79.9106948644272,43.2461954980487,0 -79.9107650606232,43.2461846838585,0 -79.9109545978581,43.2461614387018,0 -79.9111154366983,43.246143251661,0 -79.9111944828716,43.2461365312028,0 -79.9112676865405,43.2461300954535,0 -79.9113307109682,43.2461275202964,0 -79.9114601763148,43.2461255774129,0 -79.9116186119996,43.2461308949122,0 -79.9117041268824,43.2461336139427,0 -79.9118408342433,43.2461396770861,0 -79.9119840994051,43.2461432622465,0 -79.9121160916996,43.246145787327,0 -79.9122299008695,43.2461449652169,0 -79.9123381097107,43.2461415486427,0 -79.912479408199,43.2461336849434,0 -79.9126550573416,43.2461236065178,0 -79.9127859944973,43.2461139141594,0 -79.9128638394181,43.2461078888906,0 -79.9129231065213,43.2461057462846,0 -79.9129811064365,43.2461067026946,0 -79.9130388284412,43.2461091566007,0 -79.9130914144652,43.246112757485,0 -79.9131554976882,43.2461185206378,0 -79.9132318677884,43.2461249164574,0 -79.913305891555,43.2461256197384,0 -79.9133785984954,43.2461266724468,0 -79.9134225278543,43.2461240218907,0 -79.9134664822391,43.2461183000865,0 -79.9135035134793,43.2461119839347,0 -79.9135413506119,43.2461035017151,0 -79.9136112827378,43.2460844323537,0 -79.9136395937988,43.2460799387087,0 -79.9136734883393,43.2460789900681,0 -79.9138979497174,43.2460839796639,0 -79.9140228180867,43.2460904842686,0 -79.9140987516195,43.2460936535186,0 -79.9141960362971,43.2460939422239,0 -79.9143454945942,43.246091233171,0 -79.9145044780144,43.2460902018269,0 -79.9146925460847,43.2460900819541,0 -79.9148557063662,43.2460916236475,0 -79.9150574942498,43.2460894785308,0 -79.9151797292051,43.2460852252116,0 -79.9153760599101,43.2460776160118,0 -79.9158111188939,43.2460722695134,0 -79.9171359182927,43.2460754559853,0 -79.9173899814282,43.2460765903516,0 -79.9176093501504,43.2460816937487,0 -79.9179142950201,43.2460791816134,0 -79.9181805028318,43.2461058301912,0 -79.9182941952367,43.2461116679475,0 -79.9183835555376,43.2461110731395,0 -79.9184802314244,43.2461035841743,0 -79.918637111909,43.2460820966621,0 -79.9188207597829,43.2460696117191,0 -79.9189958914574,43.2460672031874,0 -79.9192515704064,43.2460675877994,0 -79.9194287237595,43.2460839732002,0 -79.9194711742505,43.2460904063992,0 -79.9195982071602,43.2461278021408,0 -79.9196849372602,43.2461600545693,0 -79.9197203226809,43.2461730888556,0 -79.9197506643826,43.2461765504309,0 -79.9198097963991,43.2461729811532,0 -79.920084815061,43.2461435098891,0 -79.9202316954548,43.2461323440997,0 -79.9203887242149,43.2461149148579,0 -79.9206159766585,43.2460958176967,0 -79.920859604076,43.2460730332094,0 -79.9211007518321,43.2460608511441,0 -79.9217056175122,43.246020516067,0 -79.9220921491908,43.2459971715439,0 -79.9222582209253,43.2459882586603,0 -79.9224379870093,43.2459909049862,0 -79.9226321284894,43.2459911462322,0 -79.9238114678634,43.246021011079,0 -79.9240573982273,43.2460274217573,0 -79.9242941472898,43.2460252037978,0 -79.9246293019598,43.2460089872139,0 -79.9248681943213,43.2460083748267,0 -79.9251357200129,43.2460096194224,0 -79.9253433296075,43.2460096647618,0 -79.9256267340208,43.246021852108,0 -79.9257483710213,43.2460204552429,0 -79.9258943546485,43.2460176984621,0 -79.9260030755854,43.246009829093,0 -79.9261847346865,43.2460035970596,0 -79.9263695962252,43.2459881866897,0 -79.9264817300023,43.2459838417842,0 -79.9265890920606,43.2459791341272,0 -79.9267268865594,43.2459728065489,0 -79.9267838133258,43.245971118346,0 -79.926910828227,43.2459602447334,0 -79.9270079769985,43.2459471467277,0 -79.9271146165665,43.2459444362243,0 -79.9272315357576,43.2459344013378,0 -79.9273459178664,43.2459243425399,0 -79.927465471673,43.2459087663755,0 -79.9276080264727,43.2458841291889,0 -79.9276767004762,43.2458754964694,0 -79.9277809968505,43.2458616318874,0 -79.9278725741849,43.2458495038435,0 -79.9279413131856,43.2458371607772,0 -79.9280255383394,43.2458101214154,0 -79.9281583648999,43.2457612744423,0 -79.9282913213481,43.2457050069371,0 -79.9286364477984,43.2455616739059,0 -79.928730951657,43.2455273096021,0 -79.9288586054958,43.2454839782115,0 -79.9289605264204,43.2454608146646,0 -79.9290144210848,43.2454570277014,0 -79.9290481336819,43.2454579241459,0 -79.9290772819416,43.2454600519984,0 -79.9291063663956,43.2454645564616,0 -79.929131441953,43.2454711412688,0 -79.9291594081087,43.2454863255145,0 -79.9291803522272,43.2455055726269,0 -79.9292104993534,43.2455336547611,0 -79.9292427720718,43.2455747729396,0 -79.9293095610411,43.2456737266049,0 -79.9293768700416,43.2457430014223,0 -79.9294518577657,43.2458086372695,0 -79.929499452978,43.2458443330345,0 -79.9295548543021,43.2458689694409,0 -79.9296130213018,43.2458806461629,0 -79.9296744575774,43.2458867588869,0 -79.9297191637136,43.2458884477556,0 -79.9297600647211,43.2458894427676,0 -79.9298412974693,43.2458883478473,0 -79.929925163464,43.245881710858,0 -79.9299754560033,43.2458766984351,0 -79.9301414013104,43.2458521940542,0 -79.9302686640735,43.2458311213157,0 -79.9305283308074,43.2457853126856,0 -79.9306683783301,43.2457587932906,0 -79.9308034802134,43.2457248059007,0 -79.9309768720088,43.2456781897709,0 -79.9311451558083,43.2456333805948,0 -79.9313262567196,43.2455812702251,0 -79.9314636638633,43.2455426238982,0 -79.9315126617155,43.2455224430548,0 -79.9315380538444,43.2455109328384,0 -79.9315678717057,43.2454947014208,0 -79.9315968157563,43.2454787787956,0 -79.9316170192886,43.2454659495479,0 -79.9316320219098,43.2454524368948,0 -79.9316483342934,43.2454386195107,0 -79.9316646516323,43.2454214875758,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8923294528913,43.2464312381645,0 -79.8923792868351,43.2464191656312,0 -79.8924268501879,43.2464094257917,0 -79.8924750128842,43.2464019581923,0 -79.8925840194702,43.2463890636867,0 -79.8926681716499,43.2463787180906,0 -79.8931001017245,43.2463424437986,0 -79.8934439377233,43.2463234509322,0 -79.8937584486791,43.2463251334199,0 -79.8939630026393,43.2463228910983,0 -79.8941423752895,43.2463232306026,0 -79.8942435222935,43.2463228136356,0 -79.894323590332,43.2463242710838,0 -79.8944543162896,43.2463217383234,0 -79.8945192343062,43.2463211006098,0 -79.8945661944927,43.2463234391186,0 -79.8945930053439,43.2463080563398,0 -79.8946179857344,43.2462985322648,0 -79.8946429396506,43.2462904036409,0 -79.8946598082314,43.2462865605065,0 -79.8946854757348,43.2462842683444,0 -79.8947206678219,43.2462836557229,0 -79.8947514772172,43.2462852230763,0 -79.894780977867,43.246287095638,0 -79.8948053079211,43.2462866958986,0 -79.8948262096364,43.2462837228328,0 -79.8948506085593,43.2462795139046,0 -79.894868858367,43.2462790545048,0 -79.8948854515207,43.2462815875319,0 -79.8948896835355,43.2462826315315,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8948896835355,43.2462826315315,0 -79.8949008846612,43.2462853970065,0 -79.8949177108712,43.2462916637852,0 -79.8949345154914,43.2462990568279,0 -79.8949477998706,43.2463090280925,0 -79.8949610141592,43.246322808523,0 -79.8949698929116,43.2463362292051,0 -79.8950200343452,43.2463317124463,0 -79.8951154570318,43.2463312394091,0 -79.8954947510151,43.2463260582542,0 -79.8962186833145,43.2463181752913,0 -79.8970777334378,43.2463108522995,0 -79.8980676362059,43.2462835623881,0 -79.8985194234144,43.2462790236299,0 -79.8991530165203,43.2462603578607,0 -79.8996650525839,43.2462454151012,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.8996650525839,43.2462454151012,0 -79.9003231601189,43.246241119486,0 -79.9005125824008,43.2462451744667,0 -79.9007172044656,43.246253844194,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9079216277572,43.2460827297933,0 -79.9081551836588,43.2460872628072,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9016064397208,43.2555625500355,0 -79.9016334978321,43.2555532803185,0 -79.9016565146298,43.2555421843788,0 -79.9016779767256,43.2555269043837,0 -79.9016929738581,43.2555085844913,0 -79.9017081529451,43.2554801406901,0 -79.9017274923032,43.2554469716075,0 -79.9019134585353,43.2550294424239,0 -79.902153780115,43.2544891420493,0 -79.9022947291676,43.2541730309498,0 -79.9023378314535,43.254087080708,0 -79.9024635147294,43.2538041776657,0 -79.9024720369436,43.2537834120215,0 -79.9024789723333,43.2537602503381,0 -79.9024834948595,43.2537352771915,0 -79.902482303802,43.2537108453252,0 -79.9024770501282,43.2536857792739,0 -79.9024683200221,43.253659131076,0 -79.9024571085723,43.2536328390612,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9316646516323,43.2454214875758,0 -79.9317077202319,43.2454204409819,0 -79.9317498866871,43.2454182945886,0 -79.9317808077445,43.2454135029623,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9317808077445,43.2454135029623,0 -79.9319633678808,43.2453307517331,0 -79.9321182534724,43.2452658384011,0 -79.9321913342366,43.2452344525539,0 -79.9323157997129,43.2451705264193,0 -79.932396004934,43.245129046145,0 -79.9325333177004,43.2450506342117,0 -79.932682043,43.2449653428298,0 -79.9328783927956,43.24483890149,0 -79.9330686184866,43.2447149437863,0 -79.9332644045126,43.2445958001536,0 -79.9333426765237,43.2445406492976,0 -79.9334071927794,43.2445021970284,0 -79.9334738789276,43.2444637658551,0 -79.9335353223238,43.2444271902361,0 -79.933595468198,43.2443902855249,0 -79.9336652889301,43.2443464861015,0 -79.9337918585465,43.2442613036788,0 -79.9339179764484,43.2441770704921,0 -79.9340371088264,43.2440978506644,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9340371088264,43.2440978506644,0 -79.9341020902017,43.2440546406976,0 -79.9342100831082,43.2439886536067,0 -79.9343201197138,43.2439299872892,0 -79.9343823405267,43.2438984988527,0 -79.9344100907987,43.243876214339,0 -79.9344213956483,43.2438688674396,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9333419831911,43.2755617250735,0 -79.9333212780858,43.2756270500493,0 -79.933304186987,43.2756721574733,0 -79.9332838563247,43.2757160433782,0 -79.9332636712894,43.275751591516,0 -79.9332453452668,43.2757740544554,0 -79.9332171133434,43.2758035719192,0 -79.9331938551579,43.2758283705541,0 -79.9331575359654,43.2758542386629,0 -79.9331244146632,43.2758837104981,0 -79.9330963282949,43.2759048910683,0 -79.9330681170505,43.2759332173843,0 -79.9330447975493,43.2759615893253,0 -79.9330179666931,43.2760042232411,0 -79.932961981595,43.2761137572886,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9319065852933,43.2450486646452,0 -79.9319264961688,43.2450711135514,0 -79.9319348465433,43.2450901327096,0 -79.9319440808166,43.2451103091082,0 -79.9319385768173,43.2451326845836,0 -79.9318988620216,43.2451743643448,0 -79.9318722046437,43.2452002800998,0 -79.9318346672905,43.2452270289257,0 -79.9317803352796,43.2452638996535,0 -79.9317450504406,43.2452883399942,0 -79.9317180578994,43.2453165820737,0 -79.9316991183242,43.2453397667337,0 -79.9316827892036,43.245365679854,0 -79.9316646516323,43.2454214875758,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF5e0fe8</color><width>1.87086</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.9007172044656,43.246253844194,0 -79.9008593007411,43.2462552097231,0 -79.9009801074971,43.2462507849718,0 -79.9011238124853,43.2462476966474,0 -79.9013546293515,43.2462443283093,0 -79.9014860708079,43.2462433566796,0 -79.9016496397865,43.2462404584622,0 -79.902106829949,43.2462258569538,0 -79.9023131197981,43.2462267193405,0 -79.9026003892051,43.2462283583049,0 -79.902830523265,43.2462353663397,0 -79.9029694510729,43.246238603327,0 -79.9031414167442,43.2462402524882,0 -79.9033077588767,43.2462384941611,0 -79.903470823212,43.2462300758853,0 -79.9036065513374,43.2462180411433,0 -79.9037118805074,43.2462057157912,0 -79.9037998167845,43.2461944933061,0 -79.9038859595896,43.246186428588,0 -79.9039750565029,43.2461823307225,0 -79.9041065779541,43.246176887865,0 -79.9044989339269,43.2461548355226,0 -79.9054249353452,43.2461059143837,0 -79.9056707816597,43.2461050916844,0 -79.9060646623985,43.2460840939899,0 -79.9067216443473,43.246068784983,0 -79.9071633758508,43.2460676088421,0 -79.9074322106591,43.2460746459925,0 -79.9077377954127,43.2460775644638,0 -79.9079216277572,43.2460827297933,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
