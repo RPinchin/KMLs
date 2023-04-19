@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>McMaster University</name>
+<Style id="style1">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>ade533b3</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Placemark>
+<name>McMaster University</name>
+<description><![CDATA[<p>Name: McMaster University
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: clampToGround
+<br/>tessellate: 1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster University]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[clampToGround]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-79.9233871525646,43.2639368527489,0.000
+					-79.9232920112457,43.2618411265388,0.000
+					-79.9227255694523,43.2592018628397,0.000
+					-79.9213812269788,43.2579530765991,0.000
+					-79.9163634947968,43.2581434455561,0.000
+					-79.9161194813406,43.2634208352618,0.000
+					-79.913619623243,43.2663126095759,0.000
+					-79.9141911479293,43.2673733487185,0.000
+					-79.9143919052441,43.2674550690897,0.000
+					-79.9145226446402,43.267589632479,0.000
+					-79.9146750585963,43.2677258176,0.000
+					-79.914784521458,43.2678272463423,0.000
+					-79.9148949588295,43.2678949153389,0.000
+					-79.9149824655674,43.267979890071,0.000
+					-79.9150697100339,43.2680492968535,0.000
+					-79.9151595283649,43.2680493454842,0.000
+					-79.9152718031413,43.2680494075599,0.000
+					-79.9169171098165,43.2675941004246,0.000
+					-79.9199610520568,43.2661766358406,0.000
+					-79.9233871525646,43.2639368527489,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+
+</Document>
+</kml>
