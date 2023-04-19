@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>Bike Rental Location</name>
+<Style id="style1">
+	<IconStyle>
+		<Icon>
+			<href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+		</Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+<name>Main at Whitney</name>
+<description><![CDATA[<p>Name: Main at Whitney
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Main at Whitney]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9397903680634,43.25205234857,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Osler at Main</name>
+<description><![CDATA[<p>Name: Osler at Main
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Osler at Main]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9342255410084,43.2572539428812,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Whitney at Lower Horning</name>
+<description><![CDATA[<p>Name: Whitney at Lower Horning
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Whitney at Lower Horning]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9354198936481,43.251852234494,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Sanders at Binkley</name>
+<description><![CDATA[<p>Name: Sanders at Binkley
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Sanders at Binkley]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9297991391017,43.2587537264156,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Sanders at Hollywood</name>
+<description><![CDATA[<p>Name: Sanders at Hollywood
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Sanders at Hollywood]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9264810898817,43.2599031663087,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>King at Cline</name>
+<description><![CDATA[<p>Name: King at Cline
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[King at Cline]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9092948352326,43.2605367837503,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Sterling at Whitton</name>
+<description><![CDATA[<p>Name: Sterling at Whitton
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Sterling at Whitton]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9133658840981,43.2622271621233,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Sterling at Haddon</name>
+<description><![CDATA[<p>Name: Sterling at Haddon
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Sterling at Haddon]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9102672933212,43.2620255208256,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Westdale Library</name>
+<description><![CDATA[<p>Name: Westdale Library
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Westdale Library]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9035966394891,43.2627159933151,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Emerson at Whitney</name>
+<description><![CDATA[<p>Name: Emerson at Whitney
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Emerson at Whitney]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9222158166354,43.2521423201677,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Rail Trail at Emerson</name>
+<description><![CDATA[<p>Name: Rail Trail at Emerson
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Rail Trail at Emerson]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9208028153897,43.2546745867839,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Westdale Village</name>
+<description><![CDATA[<p>Name: Westdale Village
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Westdale Village]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9050879478828,43.262014778034,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Rail Trail at Stroud</name>
+<description><![CDATA[<p>Name: Rail Trail at Stroud
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Rail Trail at Stroud]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9166152751889,43.2535916371157,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Main at Columbia College</name>
+<description><![CDATA[<p>Name: Main at Columbia College
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Main at Columbia College]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9078586702408,43.2585671800158,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Longwood at King</name>
+<description><![CDATA[<p>Name: Longwood at King
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Longwood at King]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.900941842659,43.2630174561591,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Longwood at Edgevale</name>
+<description><![CDATA[<p>Name: Longwood at Edgevale
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Longwood at Edgevale]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8993094507227,43.2662112206948,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Chedoke Stairs</name>
+<description><![CDATA[<p>Name: Chedoke Stairs
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Chedoke Stairs]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9082377974079,43.2460802614852,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Main at Longwood</name>
+<description><![CDATA[<p>Name: Main at Longwood
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Main at Longwood]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9021026495121,43.2596044104208,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Macklin at King</name>
+<description><![CDATA[<p>Name: Macklin at King
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Macklin at King]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8964982028278,43.2621672792622,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Innovation Park</name>
+<description><![CDATA[<p>Name: McMaster Innovation Park
+<br/>description: Large sign removed. 
+Wave racks.
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Innovation Park]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[Large sign removed. 
+Wave racks.]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9011692403389,43.2565688513522,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Dundurn Stairs</name>
+<description><![CDATA[<p>Name: Dundurn Stairs
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Dundurn Stairs]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8947787563037,43.2465214133775,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Dundurn at Aberdeen</name>
+<description><![CDATA[<p>Name: Dundurn at Aberdeen
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Dundurn at Aberdeen]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8926559093647,43.2514584578206,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Dundurn St S</name>
+<description><![CDATA[<p>Name: Dundurn St S
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Dundurn St S]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8909067741863,43.2548127599444,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Emerson</name>
+<description><![CDATA[<p>Name: McMaster Emerson
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Emerson]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9197877941092,43.2580387922716,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Arthur Bourns</name>
+<description><![CDATA[<p>Name: McMaster Arthur Bourns
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Arthur Bourns]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9223586708846,43.2599690019692,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Health Sciences</name>
+<description><![CDATA[<p>Name: McMaster Health Sciences
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Health Sciences]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9182482066454,43.2605312605323,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Mary Keyes</name>
+<description><![CDATA[<p>Name: McMaster Mary Keyes
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Mary Keyes]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9222467100399,43.2624601190462,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Stadium</name>
+<description><![CDATA[<p>Name: McMaster Stadium
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Stadium]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9186813836819,43.2646223208954,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>McMaster Student Centre</name>
+<description><![CDATA[<p>Name: McMaster Student Centre
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[McMaster Student Centre]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9171471590431,43.2627433391627,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Princess Point</name>
+<description><![CDATA[<p>Name: Princess Point
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Princess Point]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8945270390235,43.2729912866525,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Aberdeen at Studholme</name>
+<description><![CDATA[<p>Name: Aberdeen at Studholme
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Aberdeen at Studholme]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8996928926792,43.2526283071521,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Rifle Range at Rail Trail</name>
+<description><![CDATA[<p>Name: Rifle Range at Rail Trail
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Rifle Range at Rail Trail]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9298771288319,43.2554850088318,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Forsyth at Sterling</name>
+<description><![CDATA[<p>Name: Forsyth at Sterling
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Forsyth at Sterling]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9158060547164,43.2627140403341,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Frid at Main</name>
+<description><![CDATA[<p>Name: Frid at Main
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Frid at Main]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.8926237220425,43.2594051695374,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Athletic Centre Bike Racks</name>
+<description><![CDATA[<p>Name: Athletic Centre Bike Racks
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Athletic Centre Bike Racks]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9157457052614,43.2647150967104,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Main at Dalewood</name>
+<description><![CDATA[<p>Name: Main at Dalewood
+<br/>description: Blade Racks
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Main at Dalewood]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[Blade Racks]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9138386544652,43.2580254761376,0.000</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+<name>Ainslie at Emerson</name>
+<description><![CDATA[<p>Name: Ainslie at Emerson
+<br/>description: NULL
+<br/>timestamp: NULL
+<br/>begin: NULL
+<br/>end: NULL
+<br/>altitudeMode: NULL
+<br/>tessellate: -1
+<br/>extrude: 0
+<br/>visibility: -1
+<br/>drawOrder: NULL
+<br/>icon: NULL</p>]]></description>
+<ExtendedData>
+	<Data name="Name"><displayName>Name</displayName><value><![CDATA[Ainslie at Emerson]]></value></Data>
+	<Data name="description"><displayName>description</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="timestamp"><displayName>timestamp</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="begin"><displayName>begin</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="end"><displayName>end</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="altitudeMode"><displayName>altitudeMode</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="tessellate"><displayName>tessellate</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="extrude"><displayName>extrude</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="visibility"><displayName>visibility</displayName><value><![CDATA[-1]]></value></Data>
+	<Data name="drawOrder"><displayName>drawOrder</displayName><value><![CDATA[NULL]]></value></Data>
+	<Data name="icon"><displayName>icon</displayName><value><![CDATA[NULL]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+	<Point>
+		<coordinates>-79.9234422622519,43.249518114352,0.000</coordinates>
+	</Point>
+</Placemark>
+
+</Document>
+</kml>
