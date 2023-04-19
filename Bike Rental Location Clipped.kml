@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Bike_Rental_Location_Clipped" id="Bike_Rental_Location_Clipped">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Bike_Rental_Location_Clipped</name>
+  <Placemark>
+	<name>Main at Whitney</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9397903680634,43.25205234857,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Osler at Main</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9342255410084,43.2572539428812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whitney at Lower Horning</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9354198936481,43.251852234494,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sanders at Binkley</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9297991391017,43.2587537264156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sanders at Hollywood</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9264810898817,43.2599031663087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King at Cline</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9092948352326,43.2605367837503,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sterling at Whitton</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9133658840981,43.2622271621233,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sterling at Haddon</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9102672933212,43.2620255208256,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westdale Library</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9035966394891,43.2627159933151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emerson at Whitney</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9222158166354,43.2521423201677,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rail Trail at Emerson</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9208028153897,43.2546745867839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westdale Village</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9050879478828,43.262014778034,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rail Trail at Stroud</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9166152751889,43.2535916371157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main at Columbia College</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9078586702408,43.2585671800158,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longwood at King</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.900941842659,43.2630174561591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longwood at Edgevale</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8993094507227,43.2662112206948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chedoke Stairs</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9082377974079,43.2460802614852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main at Longwood</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9021026495121,43.2596044104208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macklin at King</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8964982028278,43.2621672792622,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Innovation Park</name>
+	<description>Large sign removed. 
+Wave racks.</description>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9011692403389,43.2565688513522,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dundurn Stairs</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8947787563037,43.2465214133775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dundurn at Aberdeen</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8926559093647,43.2514584578206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dundurn St S</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8909067741863,43.2548127599444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Emerson</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9197877941092,43.2580387922716,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Arthur Bourns</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9223586708846,43.2599690019692,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Health Sciences</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9182482066454,43.2605312605323,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Mary Keyes</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9222467100399,43.2624601190462,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9186813836819,43.2646223208954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McMaster Student Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9171471590431,43.2627433391627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Princess Point</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8945270390235,43.2729912866525,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aberdeen at Studholme</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8996928926792,43.2526283071521,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rifle Range at Rail Trail</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9298771288319,43.2554850088318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forsyth at Sterling</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9158060547164,43.2627140403341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frid at Main</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.8926237220425,43.2594051695374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Athletic Centre Bike Racks</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9157457052614,43.2647150967104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main at Dalewood</name>
+	<description>Blade Racks</description>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9138386544652,43.2580254761376,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ainslie at Emerson</name>
+	<ExtendedData><SchemaData schemaUrl="#Bike_Rental_Location_Clipped">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9234422622519,43.249518114352,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
